@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Apr 2022 18:45:36 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Mar 2024 21:09:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -67,7 +67,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/The_Master_of_Masters_KHX.webp" alt="The Master of Masters as he appeared in KHX" class="wp-image-2143" width="116" height="283"/><figcaption>The MoM as he appeared in KHχ</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/The_Master_of_Masters_KHX.webp"><img fetchpriority="high" decoding="async" width="300" height="731" src="/wp-content/uploads/The_Master_of_Masters_KHX.webp" alt="" class="wp-image-9401" srcset="/wp-content/uploads/The_Master_of_Masters_KHX.webp 300w, /wp-content/uploads/The_Master_of_Masters_KHX-123x300.webp 123w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-element-caption">The MoM as he appeared in KHχ</figcaption></figure>
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/Sora-vs-Xehanort.png" alt="" class="wp-image-2146"/><figcaption>Xehanort wielding the Gazing Eye Keyblade</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/Sora-vs-Xehanort.png"><img decoding="async" width="653" height="490" src="/wp-content/uploads/Sora-vs-Xehanort.png" alt="" class="wp-image-9344" srcset="/wp-content/uploads/Sora-vs-Xehanort.png 653w, /wp-content/uploads/Sora-vs-Xehanort-300x225.png 300w" sizes="(max-width: 653px) 100vw, 653px" /></a><figcaption class="wp-element-caption">Xehanort wielding the Gazing Eye Keyblade</figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/gazing-eye-scala-ad-caelum.png" alt="" class="wp-image-2177" width="396" height="294"/><figcaption>The Gazing Eye Keyblade hanging in Scala Ad Caelum</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/gazing-eye-scala-ad-caelum.png"><img decoding="async" width="751" height="557" src="/wp-content/uploads/gazing-eye-scala-ad-caelum.png" alt="" class="wp-image-9084" srcset="/wp-content/uploads/gazing-eye-scala-ad-caelum.png 751w, /wp-content/uploads/gazing-eye-scala-ad-caelum-300x223.png 300w" sizes="(max-width: 751px) 100vw, 751px" /></a><figcaption class="wp-element-caption">The Gazing Eye Keyblade hanging in Scala Ad Caelum</figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/xigbar-is-luxu-1024x586.jpg" alt="" class="wp-image-2179" width="647" height="370"/><figcaption>Xigbar reveals himself to be Luxu</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/xigbar-is-luxu.jpg"><img loading="lazy" decoding="async" width="1024" height="586" src="/wp-content/uploads/xigbar-is-luxu-1024x586.jpg" alt="" class="wp-image-8207" srcset="/wp-content/uploads/xigbar-is-luxu-1024x586.jpg 1024w, /wp-content/uploads/xigbar-is-luxu-300x172.jpg 300w, /wp-content/uploads/xigbar-is-luxu-768x440.jpg 768w, /wp-content/uploads/xigbar-is-luxu-1536x879.jpg 1536w, /wp-content/uploads/xigbar-is-luxu.jpg 1682w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Xigbar reveals himself to be Luxu</figcaption></figure>
 
 
 
@@ -135,11 +135,13 @@
 
 
 
-<blockquote class="wp-block-quote"><p>Donald,<br>Sorry to rush off without sayin&#8217; goodbye, but there&#8217;s big trouble brewin&#8217;.<br>Not sure why, but the stars have been blinkin&#8217; out, one by one. And that means disaster can&#8217;t be far behind. I hate to leave you all but I&#8217;ve gotta go check into it.<br>There&#8217;s someone with a &#8220;Key&#8221;—the Key to our survival. So I need you and Goofy to find him, and stick with him. Got it?<br>We need that key or we&#8217;re doomed! So go to Traverse Town and find Leon. He&#8217;ll point you in the right direction.<br>P.S. Would ya apologize to Minnie for me? Thanks, pal.<br>Signed &#8211; Mickey</p></blockquote>
+<blockquote class="wp-block-quote">
+<p>Donald,<br>Sorry to rush off without sayin&#8217; goodbye, but there&#8217;s big trouble brewin&#8217;.<br>Not sure why, but the stars have been blinkin&#8217; out, one by one. And that means disaster can&#8217;t be far behind. I hate to leave you all but I&#8217;ve gotta go check into it.<br>There&#8217;s someone with a &#8220;Key&#8221;—the Key to our survival. So I need you and Goofy to find him, and stick with him. Got it?<br>We need that key or we&#8217;re doomed! So go to Traverse Town and find Leon. He&#8217;ll point you in the right direction.<br>P.S. Would ya apologize to Minnie for me? Thanks, pal.<br>Signed &#8211; Mickey</p>
+</blockquote>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/Pluto-Napping-1.png" alt="" class="wp-image-2151" width="588" height="383"/><figcaption>Pluto is shown while the letter is read</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/Pluto-Napping-1.png"><img loading="lazy" decoding="async" width="689" height="449" src="/wp-content/uploads/Pluto-Napping-1.png" alt="" class="wp-image-9294" srcset="/wp-content/uploads/Pluto-Napping-1.png 689w, /wp-content/uploads/Pluto-Napping-1-300x196.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a><figcaption class="wp-element-caption">Pluto is shown while the letter is read</figcaption></figure>
 
 
 
@@ -179,7 +181,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/Pluto-Hitting-Sora.png" alt="" class="wp-image-2149" width="358" height="284"/><figcaption>Pluto hitting Sora</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/Pluto-Hitting-Sora.png"><img loading="lazy" decoding="async" width="695" height="551" src="/wp-content/uploads/Pluto-Hitting-Sora.png" alt="" class="wp-image-9292" srcset="/wp-content/uploads/Pluto-Hitting-Sora.png 695w, /wp-content/uploads/Pluto-Hitting-Sora-300x238.png 300w" sizes="(max-width: 695px) 100vw, 695px" /></a><figcaption class="wp-element-caption">Pluto hitting Sora</figcaption></figure>
 
 
 
@@ -211,7 +213,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/Pluto-With-Letter.png" alt="" class="wp-image-2152" width="508" height="280"/><figcaption>What a coincidence</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/Pluto-With-Letter.png"><img loading="lazy" decoding="async" width="855" height="471" src="/wp-content/uploads/Pluto-With-Letter.png" alt="" class="wp-image-9298" srcset="/wp-content/uploads/Pluto-With-Letter.png 855w, /wp-content/uploads/Pluto-With-Letter-300x165.png 300w, /wp-content/uploads/Pluto-With-Letter-768x423.png 768w" sizes="(max-width: 855px) 100vw, 855px" /></a><figcaption class="wp-element-caption">What a coincidence</figcaption></figure>
 
 
 
@@ -251,7 +253,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/Castle-Oblivion-1024x590.png" alt="" class="wp-image-2153" width="552" height="318"/><figcaption>Pluto led them straight to Marluxia</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/Castle-Oblivion.png"><img loading="lazy" decoding="async" width="1024" height="590" src="/wp-content/uploads/Castle-Oblivion-1024x590.png" alt="" class="wp-image-8966" srcset="/wp-content/uploads/Castle-Oblivion-1024x590.png 1024w, /wp-content/uploads/Castle-Oblivion-300x173.png 300w, /wp-content/uploads/Castle-Oblivion-768x442.png 768w, /wp-content/uploads/Castle-Oblivion.png 1106w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Pluto led them straight to Marluxia</figcaption></figure>
 
 
 
@@ -279,7 +281,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/whats-pluto-doing-here.png" alt="" class="wp-image-2154" width="528" height="355"/><figcaption>Good question Donald, what IS Pluto doing here?</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/whats-pluto-doing-here.png"><img loading="lazy" decoding="async" width="852" height="573" src="/wp-content/uploads/whats-pluto-doing-here.png" alt="" class="wp-image-9460" srcset="/wp-content/uploads/whats-pluto-doing-here.png 852w, /wp-content/uploads/whats-pluto-doing-here-300x202.png 300w, /wp-content/uploads/whats-pluto-doing-here-768x517.png 768w" sizes="(max-width: 852px) 100vw, 852px" /></a><figcaption class="wp-element-caption">Good question Donald, what IS Pluto doing here?</figcaption></figure>
 
 
 
@@ -311,7 +313,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/pluto-goes-into-darkness.jpg" alt="" class="wp-image-2156" width="309" height="409"/><figcaption>Pluto delves into the darkness</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/pluto-goes-into-darkness.jpg"><img loading="lazy" decoding="async" width="606" height="802" src="/wp-content/uploads/pluto-goes-into-darkness.jpg" alt="" class="wp-image-9291" srcset="/wp-content/uploads/pluto-goes-into-darkness.jpg 606w, /wp-content/uploads/pluto-goes-into-darkness-227x300.jpg 227w" sizes="(max-width: 606px) 100vw, 606px" /></a><figcaption class="wp-element-caption">Pluto delves into the darkness</figcaption></figure>
 
 
 
@@ -343,7 +345,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/pluto-saves-kairi.jpg" alt="" class="wp-image-2157" width="420" height="397"/><figcaption>A corridor of light?</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/pluto-saves-kairi.jpg"><img loading="lazy" decoding="async" width="1003" height="947" src="/wp-content/uploads/pluto-saves-kairi.jpg" alt="" class="wp-image-9295" srcset="/wp-content/uploads/pluto-saves-kairi.jpg 1003w, /wp-content/uploads/pluto-saves-kairi-300x283.jpg 300w, /wp-content/uploads/pluto-saves-kairi-768x725.jpg 768w" sizes="(max-width: 1003px) 100vw, 1003px" /></a><figcaption class="wp-element-caption">A corridor of light?</figcaption></figure>
 
 
 
@@ -379,7 +381,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/pluto-stopping-riku-1024x832.jpg" alt="" class="wp-image-2158" width="476" height="387"/><figcaption>Pluto convinces Riku when Kairi could not</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/pluto-stopping-riku.jpg"><img loading="lazy" decoding="async" width="1024" height="832" src="/wp-content/uploads/pluto-stopping-riku-1024x832.jpg" alt="" class="wp-image-9297" srcset="/wp-content/uploads/pluto-stopping-riku-1024x832.jpg 1024w, /wp-content/uploads/pluto-stopping-riku-300x244.jpg 300w, /wp-content/uploads/pluto-stopping-riku-768x624.jpg 768w, /wp-content/uploads/pluto-stopping-riku.jpg 1104w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Pluto convinces Riku when Kairi could not</figcaption></figure>
 
 
 
@@ -407,7 +409,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/pluto-sneaks-off-1024x552.png" alt="" class="wp-image-2162" width="557" height="300"/><figcaption>Pluto sneaks off</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/pluto-sneaks-off.png"><img loading="lazy" decoding="async" width="1024" height="552" src="/wp-content/uploads/pluto-sneaks-off-1024x552.png" alt="" class="wp-image-9296" srcset="/wp-content/uploads/pluto-sneaks-off-1024x552.png 1024w, /wp-content/uploads/pluto-sneaks-off-300x162.png 300w, /wp-content/uploads/pluto-sneaks-off-768x414.png 768w, /wp-content/uploads/pluto-sneaks-off.png 1201w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Pluto sneaks off</figcaption></figure>
 
 
 
@@ -423,15 +425,29 @@
 
 
 
-<blockquote class="wp-block-quote"><p>Their hurting will be mended when you return to end it.</p><cite><strong>Page added to Jiminy&#8217;s Journal</strong></cite></blockquote>
+<blockquote class="wp-block-quote">
+<p>Their hurting will be mended when you return to end it.</p>
+<cite><strong>Page added to Jiminy&#8217;s Journal</strong></cite></blockquote>
 
 
 
-<blockquote class="wp-block-quote"><p>On that fated land, a great war shall transpire. Darkness will prevail and the light expire.</p><cite><strong>Book of Prophecies Final Entry</strong></cite></blockquote>
+<blockquote class="wp-block-quote">
+<p>On that fated land, a great war shall transpire. Darkness will prevail and the light expire.</p>
+<cite><strong>Book of Prophecies Final Entry</strong></cite></blockquote>
 
 
 
-<blockquote class="wp-block-quote"><p><em>Imbalance observed, strength misplaced, a future filled with sorrow.</em></p><p><em>Words of truth misunderstood as they explore the secret of tomorrow.</em></p><p><em>With a single strike, toll the bells and herald the end, bringing war upon us, as fate did intend.</em></p><p></p><cite><strong>Book of Prophecies Lost Page</strong></cite></blockquote>
+<blockquote class="wp-block-quote">
+<p><em>Imbalance observed, strength misplaced, a future filled with sorrow.</em></p>
+
+
+
+<p><em>Words of truth misunderstood as they explore the secret of tomorrow.</em></p>
+
+
+
+<p><em>With a single strike, toll the bells and herald the end, bringing war upon us, as fate did intend.</em></p>
+<cite><strong>Book of Prophecies Lost Page</strong></cite></blockquote>
 
 
 
@@ -459,7 +475,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/pluto.webp" alt="" class="wp-image-2164"/></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/pluto.webp"><img loading="lazy" decoding="async" width="232" height="299" src="/wp-content/uploads/pluto.webp" alt="" class="wp-image-9290"/></a></figure>
 
 
 
@@ -505,6 +521,16 @@
 
 
 
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
+
 
 
 <h2 class="wp-block-heading">When is  Prime Resurgence </h2>
@@ -515,13 +541,61 @@
 
 
 
-<ul><li>Nov. 16 &#8211; Nov. 22: Mag &amp; Nova  </li><li>Nov. 23 &#8211; Nov. 29: Limbo &amp; Trinity</li><li>Nov. 30 &#8211; Dec. 06: Mesa &amp; Hydroid</li><li>Dec. 07 &#8211; Dec. 13: Volt &amp; Loki</li><li>Dec. 14 &#8211; Dec. 20: Vauban &amp; Ash</li><li>Dec. 21 &#8211; Dec. 27: Oberon &amp; Nekros</li><li>Dec. 28 &#8211; Jan. 03: Valkyr &amp; Saryn</li><li>Jan. 04 &#8211; Jan. 10: Ember &amp; Frost</li><li>Jan 11. &#8211; Jan. 18: Mag, Nova, Limbo, Trinity, Hydroid, Mesa, Volt, &amp; Loki</li><li>Jan. 18 &#8211; Jan. 25: Ash, Vauban, Nekros, Oberon, Saryn, Valkyr, Ember, &amp; Frost</li></ul>
+<ul>
+<li>Nov. 16 &#8211; Nov. 22: Mag &amp; Nova  </li>
+
+
+
+<li>Nov. 23 &#8211; Nov. 29: Limbo &amp; Trinity</li>
+
+
+
+<li>Nov. 30 &#8211; Dec. 06: Mesa &amp; Hydroid</li>
+
+
+
+<li>Dec. 07 &#8211; Dec. 13: Volt &amp; Loki</li>
+
+
+
+<li>Dec. 14 &#8211; Dec. 20: Vauban &amp; Ash</li>
+
+
+
+<li>Dec. 21 &#8211; Dec. 27: Oberon &amp; Nekros</li>
+
+
+
+<li>Dec. 28 &#8211; Jan. 03: Valkyr &amp; Saryn</li>
+
+
+
+<li>Jan. 04 &#8211; Jan. 10: Ember &amp; Frost</li>
+
+
+
+<li>Jan 11. &#8211; Jan. 18: Mag, Nova, Limbo, Trinity, Hydroid, Mesa, Volt, &amp; Loki</li>
+
+
+
+<li>Jan. 18 &#8211; Jan. 25: Ash, Vauban, Nekros, Oberon, Saryn, Valkyr, Ember, &amp; Frost</li>
+</ul>
 
 
 
 <p>The final two weeks of the event will be a last chance to participate in the event, likely offering multiple Primes that were offered in previous weeks.</p>
 
 
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
 
 
 
@@ -541,7 +615,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2021/11/void-missions.png"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2021/11/void-missions-1024x631.png" alt="Missions in the Void" class="wp-image-1971"/></a><figcaption>Missions in the Void will drop Aya</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/void-missions.png"><img loading="lazy" decoding="async" width="1024" height="631" src="/wp-content/uploads/void-missions-1024x631.png" alt="" class="wp-image-9419" srcset="/wp-content/uploads/void-missions-1024x631.png 1024w, /wp-content/uploads/void-missions-300x185.png 300w, /wp-content/uploads/void-missions-768x473.png 768w, /wp-content/uploads/void-missions.png 1302w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Missions in the Void will drop Aya</figcaption></figure>
 
 
 
@@ -549,9 +623,19 @@
 
 
 
-<p>Aya can be spent at Varzia&nbsp;who is located in Maroo&#8217;s Bazaar on Mars during the event. In addition to the current offering of vaulted relics, you can also purchase Syandanas, Orbiter skins, Sigils, Glyphs, and Ducats.</p>
+<p>Aya can be spent at Varzia who is located in Maroo&#8217;s Bazaar on Mars during the event. In addition to the current offering of vaulted relics, you can also purchase Syandanas, Orbiter skins, Sigils, Glyphs, and Ducats.</p>
 
 
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
 
 
 
@@ -567,9 +651,19 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2021/11/ayaya-twitch-emote.png" alt="AYAYA Twitch Emote" class="wp-image-1969"/><figcaption>The AYAYA Emote on Twitch</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="300" height="300" src="/wp-content/uploads/ayaya-twitch-emote.png" alt="" class="wp-image-8949" srcset="/wp-content/uploads/ayaya-twitch-emote.png 300w, /wp-content/uploads/ayaya-twitch-emote-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-element-caption">The AYAYA Emote on Twitch</figcaption></figure>
 
 
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
 
 
 
@@ -584,6 +678,16 @@
 <p>New War is coming to Warframe sometime in December 2021! Check out the official page for the <a href="https://www.warframe.com/news/the-new-war-launches-in-december">New War announcement</a>.</p>
 
 
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
 ]]></content:encoded>
 					
 		
@@ -604,6 +708,16 @@
 
 
 
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
+
 
 
 <h2 class="wp-block-heading">What is the Golden Kappa</h2>
@@ -614,7 +728,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><a href="https://marvweb.com/wp-content/uploads/2021/10/golden-kappa.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2021/10/golden-kappa.jpg" alt="A comparison of the normal Kappa emote and the Golden Kappa emote." class="wp-image-1841"/></a><figcaption>Kappa (left) vs Golden Kappa (right)</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/golden-kappa.jpg"><img loading="lazy" decoding="async" width="356" height="253" src="/wp-content/uploads/golden-kappa.jpg" alt="" class="wp-image-9089" srcset="/wp-content/uploads/golden-kappa.jpg 356w, /wp-content/uploads/golden-kappa-300x213.jpg 300w" sizes="(max-width: 356px) 100vw, 356px" /></a><figcaption class="wp-element-caption">Kappa (left) vs Golden Kappa (right)</figcaption></figure>
 
 
 
@@ -626,6 +740,16 @@
 
 
 
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
+
 
 
 <h2 class="wp-block-heading">How Does the Golden Kappa Actually Work</h2>
@@ -636,7 +760,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><a href="https://marvweb.com/wp-content/uploads/2021/10/golden-kappa-code-snippetJPG.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2021/10/golden-kappa-code-snippetJPG.jpg" alt="Code Snippet From &quot;goldenkappa.go&quot;, a file that was leaked as part of the Twitch source code. It shows that certain users are able to assign the Golden Kappa." class="wp-image-1842"/></a><figcaption>Code Snippet From &#8220;goldenkappa.go&#8221;</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/golden-kappa-code-snippetJPG.jpg"><img loading="lazy" decoding="async" width="420" height="456" src="/wp-content/uploads/golden-kappa-code-snippetJPG.jpg" alt="" class="wp-image-9091" srcset="/wp-content/uploads/golden-kappa-code-snippetJPG.jpg 420w, /wp-content/uploads/golden-kappa-code-snippetJPG-276x300.jpg 276w" sizes="(max-width: 420px) 100vw, 420px" /></a><figcaption class="wp-element-caption">Code Snippet From &#8220;goldenkappa.go&#8221;</figcaption></figure>
 
 
 
@@ -665,271 +789,6 @@
 
 
 <hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The Return to Unchallengeable News Media &#8211; GME, Fake News, &#038; Influencers</title>
-		<link>/unchallengeable-news-media-gme-fake-news-influencers/</link>
-		
-		<dc:creator><![CDATA[Matt]]></dc:creator>
-		<pubDate>Tue, 18 May 2021 08:44:25 +0000</pubDate>
-				<category><![CDATA[Opinions]]></category>
-		<guid isPermaLink="false">https://marvweb.com/?p=1774</guid>
-
-					<description><![CDATA[As news reporting evolves at an alarming pace, GME and "Glacier Capital" offer us an interesting insight into the state of news media.]]></description>
-										<content:encoded><![CDATA[
-<h2 class="wp-block-heading">The Case of Glacier Capital</h2>
-
-
-
-<p>If you have been following the GME saga, there has been a lot of questionable news thrown around. News meant to dissuade purchasing, news meant to encourage buying, an everything in-between. Even news that attempts to just present facts has some level of implicit bias.</p>
-
-
-
-<p>Recently, there was talk on the crowd sourced news site Reddit of a company called Glacier Capital opening a new short position in GME. This news quickly spread because of the nature of crowd sourced news; people attempting to earn a small amount of fame and fake internet points quickly jumped on the train, trying to get their posts about the news they had heard out there ASAP. Here are a couple examples:</p>
-
-
-
-<ul><li><a href="https://www.reddit.com/r/Superstonk/comments/netvg0/i_read_glacier_capitals_q1_2021_letter_to/">I Read Glacier Capital&#8217;s Q1 2021 Letter To Investors</a></li><li><a href="https://www.reddit.com/r/Superstonk/comments/nerh2y/opening_a_167_short_position_headass_ol_i_love/">Glacier Capital, the price is wrong</a></li></ul>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2021/05/glacier-capital-meme.jpg" alt="" class="wp-image-1775"/><figcaption>a</figcaption></figure></div>
-
-
-
-<p><strong>However, in less than a day, Reddit has a new stance on Glacier Capital: </strong></p>
-
-
-
-<p class="has-text-align-center"><em>Glacier Capital doesn&#8217;t exist.</em> </p>
-
-
-
-<p>At least not to the extent that was originally implied. It exists on paper and has a website, but no one can find any actual information on a &#8220;real&#8221; company of this name. If you look up their listed business address, it looks like someone&#8217;s apartment. This is further backed up by the fact that their announcement of shorting GME was followed by a very long explanation of why they felt GME would go down in value.</p>
-
-
-
-<ul><li><a href="https://www.reddit.com/r/Superstonk/comments/nezcn1/glacier_capital_does_not_exist/">&#8220;Glacier Capital&#8221; does not exist</a></li><li><a href="https://www.reddit.com/r/Superstonk/comments/new7b6/check_out_glacier_capitals_head_office_no/">Check out Glacier Capital’s head office. No, seriously&#8230;</a></li></ul>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2021/05/glacier-capital-address.jpg" alt="" class="wp-image-1776"/></figure></div>
-
-
-
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
-
-
-
-<h2 class="wp-block-heading">Crowd Sourced News &#8211; Working Together to Find the Truth</h2>
-
-
-
-<p>Think what you will about who is right and who is wrong here, but I found this to be an interesting insight into the state of news media. </p>
-
-
-
-<p>It is tough to trust main stream media because many feel they purposefully lie to push an agenda or that they have been bought out. The idea of &#8220;fake news&#8221; has been thrown around a lot lately, claiming major news sources are purposefully adding bias and reporting news in specific ways to tell the tale they want to, rather than simply presenting facts.</p>
-
-
-
-<p>However, it is also difficult to trust crowd sourced media (like Reddit) because they are not journalists. They will often jump on the hype train for fake internet points and not do enough research to verify their claims. On top of that, like a game of &#8220;telephone,&#8221; even if the news was correct to begin with, the truth can get lost as it is retold by more and more people looking to get in on the hype.</p>
-
-
-
-<p>There is an interesting  difference that has been demonstrated by this Glacier Capital story between conventional news media and crowd sourced news media. Crowd sourced news eventually corrected itself. As time progresses, crowd sourced news can become more trustworthy. It has had time to be challenged, and those challenges are more difficult to suppress. In contrast, a conventional news source that was purposeful lying would never expose its own lie.</p>
-
-
-
-<p>The crux here is that crowd sourced news can be readily challenged. This is why people are moving away from news outlets that simply tell you the news with no real avenue for challenge. We are moving instead toward news sources we can actively engage in. As long as we have a healthy discourse, the truth will eventually rise to the top (assuming we have good faith actors involved). </p>
-
-
-
-<p><strong>But what if we lose that readily challengeable discourse?</strong></p>
-
-
-
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
-
-
-
-<h2 class="wp-block-heading">Influencers &#8211; A Return to Unchallengeable News</h2>
-
-
-
-<p>&#8220;Influencers&#8221; are a quickly rising trend in the connected world. As people lose faith in traditional media, we often end up replacing our news source with influencers: people who&#8217;s opinion is respected in a group or community. Influencers can be a single person or even a group of people who generally speak for a community.</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://marvweb.com/wp-content/uploads/2021/05/stock-influencer.jpg"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2021/05/stock-influencer-1024x683.jpg" alt="" class="wp-image-1779" width="512" height="342"/></a></figure></div>
-
-
-
-<p>We may not intentionally seek out news from an influencer, but if you resign yourself from other news sources you will hear about extraordinary news eventually, and it will often be through the people/places you spend time with/at.</p>
-
-
-
-<p>Influencers generally want to be on the cutting edge of breaking news in their specific area of interest. Knowing information that others do not is a great way to become, or remain, influential. However, this will often encourage influencers (or aspiring influencers) to announce news before they have had sufficient time to investigate and verify information. </p>
-
-
-
-<p>Influencers also generally want to be controversial in an attempt to be more &#8220;interesting&#8221; and &#8220;clickable&#8221; than their competition. Prioritizing controversy means they are more likely to have extreme takes. </p>
-
-
-
-<p>Finally, people are also much more likely to follow influencers who&#8217;s opinions they already agree with, leading to an increase in bias. The groups that form around an influencer often have at least a few things in common. Those similarities often end up being what defines the community.</p>
-
-
-
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
-
-
-
-<h2 class="wp-block-heading">Communities, Tribes, and Echo Chambers &#8211; A Further Division of an Already Divided World</h2>
-
-
-
-<p>As people start to distrust main stream media more and more, influencers will grow more&#8230; <em>influential</em>. With the eventuality of influencers as a major source of information (a reality we may already be living in), we&#8217;ll be more exposed to biased, extreme &#8220;takes&#8221; on breaking news that we don&#8217;t have all of the information for. This will lead to people forming exaggerated opinions early, making them less likely to consider dissenting opinions. </p>
-
-
-
-<p>We already see this with echo chambers: people join groups of like minded people and disregarding anything the contradicts what they want to believe. I see it with myself too: I am very unlikely to believe anything that certain news outlets say, even if there is no particular reason to distrust their reporting of that specific news story. I chose to disregard these &#8220;untrustworthy&#8221; news sources. My personal list of untrustworthy news has grown steadily over the years. </p>
-
-
-
-<p>Anecdotally, I&#8217;ve gotten my news about GME pretty much solely from Reddit. I believe there is too much of a profit motive in the case of GME for less challengeable news sources. Unfortunately, crowd sourced news has a huge potential to become an echo chamber. People who deviate from the consensus get voted into obscurity and news that agrees with the masses rises to prominence.</p>
-
-
-
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
-
-
-
-<h2 class="wp-block-heading">The Next Iteration of News &#8211; Influencers</h2>
-
-
-
-<p>The flaws of main stream news and crowd sourced news will continue to push people toward influencer based news. The issue here is that influencer news is the worst of both worlds.</p>
-
-
-
-<p>Influencers will often present non-factual data as truth, purposefully or accidentally. They are susceptible to being bought out or purposefully pushing an agenda like main stream news. They also have a high potential to report non-factual news unintentionally, like crowd sourced news, because they are rushing to be timely and interesting. </p>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
-
-
-
-<p>Influencers are often not reporters, and have none of the constraints of being a dedicated source of news like a business would. They are free to present their takes on developing stories as their opinion and often face little to no consequence for misreporting news.</p>
-
-
-
-<p>Influencers also are not subject to the automatic fact checking and correction found in crowd sourced news. It is easy for an influencer to dismiss and suppress the opinions of less influential people in their community, as by definition they are &#8220;influential.&#8221;</p>
-
-
-
-<p><strong>This is the real issue: influencers are missing the checks that come with the other types of news.</strong> </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://marvweb.com/wp-content/uploads/2021/05/stock-newspaper.jpg"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2021/05/stock-newspaper-1024x768.jpg" alt="" class="wp-image-1781" width="512" height="384"/></a></figure></div>
-
-
-
-<p>As we continue to divide into the tribes and communities we choose to associate ourselves with, we will stop hearing the dissenting opinions. We will end up surrounded by people we agree with and actively reject those who are not a part of our group.</p>
-
-
-
-<p>This has likely been happening to some extent forever. However (and perhaps I&#8217;m being an alarmist), I feel like it is getting worse, quickly. The most difficult part for me is that I can&#8217;t see any way that it will get better. </p>
-
-
-
-<p>At this point I feel like people have chosen their tribes, and anyone who tries to convince them to leave said tribe is just a member of the &#8220;other&#8221; tribe. As we vilify the other tribe, we widen the divide.</p>
-
-
-
-<p><strong>At some point, the divide will be uncrossable.</strong></p>
-
-
-
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
-
-
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
-
-
-
-<p></p>
 ]]></content:encoded>
 					
 		
@@ -1199,7 +1058,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1223,7 +1082,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2021/01/customer-service-center-1-1024x682.jpg" alt="" class="wp-image-1607"/></figure></div>
+<figure class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="/wp-content/uploads/customer-service-center-1-1024x682.jpg" alt="" class="wp-image-8987" srcset="/wp-content/uploads/customer-service-center-1-1024x682.jpg 1024w, /wp-content/uploads/customer-service-center-1-300x200.jpg 300w, /wp-content/uploads/customer-service-center-1-768x512.jpg 768w, /wp-content/uploads/customer-service-center-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1235,7 +1094,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1263,7 +1122,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2021/01/customer-service-tree.jpg" alt="" class="wp-image-1609"/></figure></div>
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="500" height="402" src="/wp-content/uploads/customer-service-tree.jpg" alt="" class="wp-image-8990" srcset="/wp-content/uploads/customer-service-tree.jpg 500w, /wp-content/uploads/customer-service-tree-300x241.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
 
 
 
@@ -1271,7 +1130,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1311,7 +1170,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1361,7 +1220,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1417,7 +1276,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2021/01/dog-bomb.jpg" alt="Dog death deals more than half of the boss's health" class="wp-image-1529"/><figcaption>Dog death deals more than half of the boss&#8217;s health</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/dog-bomb.jpg"><img loading="lazy" decoding="async" width="884" height="402" src="/wp-content/uploads/dog-bomb.jpg" alt="" class="wp-image-9010" srcset="/wp-content/uploads/dog-bomb.jpg 884w, /wp-content/uploads/dog-bomb-300x136.jpg 300w, /wp-content/uploads/dog-bomb-768x349.jpg 768w" sizes="(max-width: 884px) 100vw, 884px" /></a><figcaption class="wp-element-caption">Dog death deals more than half of the boss&#8217;s health</figcaption></figure>
 
 
 
@@ -1425,7 +1284,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1477,7 +1336,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1537,7 +1396,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1561,7 +1420,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1603,11 +1462,11 @@
 
 
 
-<p>Its blueprints can be acquired from the <a href="https://marvweb.com/warframe/deimos/necraloid-syndicate/">Necraloid Syndicate</a>, with the main blueprint obtainable at max rank (Rank 3: Odima) for <strong>10,000 standing</strong> and the <strong>four </strong>component blueprints requiring <strong>3,500 standing each</strong>. The component blueprints will require damaged parts obtained from <a href="https://marvweb.com/warframe/deimos/isolation-vaults/">isolation vaults</a>.</p>
+<p>Its blueprints can be acquired from the <a href="/warframe/deimos/necraloid-syndicate/">Necraloid Syndicate</a>, with the main blueprint obtainable at max rank (Rank 3: Odima) for <strong>10,000 standing</strong> and the <strong>four </strong>component blueprints requiring <strong>3,500 standing each</strong>. The component blueprints will require damaged parts obtained from <a href="/warframe/deimos/isolation-vaults/">isolation vaults</a>.</p>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1627,15 +1486,15 @@
 
 
 
-<p>Infested Kitguns are primary and secondary weapons that are built from components just like their Fortuna counterparts. There are new Infested style <strong>chambers, grips, and loaders</strong>. These parts can be purchased from <a href="https://marvweb.com/warframe/deimos/entrati-syndicate#father">Father</a> for Entrati Standing. Once purchased, talk with Rude Zudd in Fortuna to put the gun together. You can mix and match Kitgun components from Fortuna too. Check out the <a href="https://warframe.fandom.com/wiki/Kitgun#Primary">Kitgun page on the wiki</a> for more specifics on each part.</p>
+<p>Infested Kitguns are primary and secondary weapons that are built from components just like their Fortuna counterparts. There are new Infested style <strong>chambers, grips, and loaders</strong>. These parts can be purchased from <a href="/warframe/deimos/entrati-syndicate#father">Father</a> for Entrati Standing. Once purchased, talk with Rude Zudd in Fortuna to put the gun together. You can mix and match Kitgun components from Fortuna too. Check out the <a href="https://warframe.fandom.com/wiki/Kitgun#Primary">Kitgun page on the wiki</a> for more specifics on each part.</p>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/11/infested-kitgun.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/11/infested-kitgun-1024x792.jpg" alt="" class="wp-image-1455"/></a><figcaption>Infested Kitguns &#8211; Primaries and Secondaries</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/infested-kitgun.jpg"><img loading="lazy" decoding="async" width="1024" height="792" src="/wp-content/uploads/infested-kitgun-1024x792.jpg" alt="" class="wp-image-9205" srcset="/wp-content/uploads/infested-kitgun-1024x792.jpg 1024w, /wp-content/uploads/infested-kitgun-300x232.jpg 300w, /wp-content/uploads/infested-kitgun-768x594.jpg 768w, /wp-content/uploads/infested-kitgun.jpg 1071w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Infested Kitguns &#8211; Primaries and Secondaries</figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1663,15 +1522,15 @@
 
 
 
-<p>Check out our <a href="https://marvweb.com/warframe/steel-path/">Steel Path guide</a> for tips on this difficult game mode.</p>
+<p>Check out our <a href="/warframe/steel-path/">Steel Path guide</a> for tips on this difficult game mode.</p>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/11/steel-path-incursions.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/11/steel-path-incursions.jpg" alt="" class="wp-image-1464"/></a><figcaption>Steel Path Incursions</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/steel-path-incursions.jpg"><img loading="lazy" decoding="async" width="708" height="818" src="/wp-content/uploads/steel-path-incursions.jpg" alt="" class="wp-image-9371" srcset="/wp-content/uploads/steel-path-incursions.jpg 708w, /wp-content/uploads/steel-path-incursions-260x300.jpg 260w" sizes="(max-width: 708px) 100vw, 708px" /></a><figcaption class="wp-element-caption">Steel Path Incursions</figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1691,7 +1550,7 @@
 
 
 
-<p>Deimos Arcana focuses a lot on changes to <a href="https://marvweb.com/warframe/deimos/isolation-vaults/">Isolation Vaults</a>, adding four new ruins. New items gave been added as rewards for isolation vaults. There are also some new encounters in isolation vaults, offering some variety for extended runs. The <strong>speed of Loid has been increased</strong>, while his health has been decreased. Scintillants&nbsp;inside the vaults now have a chance to respawn, so if you get the same vault on an extended run, you can still get more. </p>
+<p>Deimos Arcana focuses a lot on changes to <a href="/warframe/deimos/isolation-vaults/">Isolation Vaults</a>, adding four new ruins. New items gave been added as rewards for isolation vaults. There are also some new encounters in isolation vaults, offering some variety for extended runs. The <strong>speed of Loid has been increased</strong>, while his health has been decreased. Scintillants inside the vaults now have a chance to respawn, so if you get the same vault on an extended run, you can still get more. </p>
 
 
 
@@ -1699,7 +1558,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1719,11 +1578,11 @@
 
 
 
-<p>In addition to the items that have been added as part of this patch, the <a href="https://marvweb.com/warframe/deimos/entrati-syndicate/">Entrati Syndicate</a> has had some other small changes. You can now obtain every family member&#8217;s tokens from Grandmother through her new &#8220;Mend the Family&#8221; option. This gives an alternate way to obtain tokens other than engaging with that specific family member&#8217;s content. </p>
+<p>In addition to the items that have been added as part of this patch, the <a href="/warframe/deimos/entrati-syndicate/">Entrati Syndicate</a> has had some other small changes. You can now obtain every family member&#8217;s tokens from Grandmother through her new &#8220;Mend the Family&#8221; option. This gives an alternate way to obtain tokens other than engaging with that specific family member&#8217;s content. </p>
 
 
 
-<p>There is a new evergreen use for <a href="https://marvweb.com/warframe/deimos/necraloid-syndicate/">Necraloid Syndicate</a> standing. You can now exchange <strong>50,000 Necraloid Standing</strong> for a Ayatan Sculpture with a base value of 450 Endo. With four Cyan and one Amber Ayatan installed, it has a value of <strong>3000 Endo</strong>. </p>
+<p>There is a new evergreen use for <a href="/warframe/deimos/necraloid-syndicate/">Necraloid Syndicate</a> standing. You can now exchange <strong>50,000 Necraloid Standing</strong> for a Ayatan Sculpture with a base value of 450 Endo. With four Cyan and one Amber Ayatan installed, it has a value of <strong>3000 Endo</strong>. </p>
 
 
 
@@ -1731,11 +1590,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/11/deimos-arcana-mods.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/11/deimos-arcana-mods.jpg" alt="" class="wp-image-1459"/></a><figcaption>New companion mods</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/deimos-arcana-mods.jpg"><img loading="lazy" decoding="async" width="401" height="252" src="/wp-content/uploads/deimos-arcana-mods.jpg" alt="" class="wp-image-8992" srcset="/wp-content/uploads/deimos-arcana-mods.jpg 401w, /wp-content/uploads/deimos-arcana-mods-300x189.jpg 300w" sizes="(max-width: 401px) 100vw, 401px" /></a><figcaption class="wp-element-caption">New companion mods</figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1755,15 +1614,37 @@
 
 
 
-<ul><li>You can purchase a cosmetic outfit for your Sentinel companion to make it look like Loid</li><li>You can build a new Infested K-Drive with parts purchased from <a href="https://marvweb.com/warframe/deimos/entrati-syndicate#grandmother">Grandmother</a></li><li>You can now view the current cycle in the corresponding hub<ul><li>Vome/Fass cycle in the Necralisk; current temperature in Fortuna; time of day in Cetus</li></ul></li><li>There are new conservation and fishing creatures in the Cambion Drifts</li><li><a href="https://marvweb.com/warframe/deimos/conservation/">Conservation </a>targets now reward more tags based on level of success</li></ul>
+<ul>
+<li>You can purchase a cosmetic outfit for your Sentinel companion to make it look like Loid</li>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/11/infested-kdrive.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/11/infested-kdrive-488x1024.jpg" alt="" class="wp-image-1461"/></a><figcaption>Infested K-Drive</figcaption></figure></div>
+<li>You can build a new Infested K-Drive with parts purchased from <a href="/warframe/deimos/entrati-syndicate#grandmother">Grandmother</a></li>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<li>You can now view the current cycle in the corresponding hub
+<ul>
+<li>Vome/Fass cycle in the Necralisk; current temperature in Fortuna; time of day in Cetus</li>
+</ul>
+</li>
+
+
+
+<li>There are new conservation and fishing creatures in the Cambion Drifts</li>
+
+
+
+<li><a href="/warframe/deimos/conservation/">Conservation </a>targets now reward more tags based on level of success</li>
+</ul>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/infested-kdrive.jpg"><img loading="lazy" decoding="async" width="488" height="1024" src="/wp-content/uploads/infested-kdrive-488x1024.jpg" alt="" class="wp-image-9204" srcset="/wp-content/uploads/infested-kdrive-488x1024.jpg 488w, /wp-content/uploads/infested-kdrive-143x300.jpg 143w, /wp-content/uploads/infested-kdrive.jpg 494w" sizes="(max-width: 488px) 100vw, 488px" /></a><figcaption class="wp-element-caption">Infested K-Drive</figcaption></figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1804,7 +1685,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/10/dynamax-adventures-description.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/10/dynamax-adventures-description.jpg" alt="" class="wp-image-1337"/></a></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/dynamax-adventures-description.jpg"><img loading="lazy" decoding="async" width="706" height="501" src="/wp-content/uploads/dynamax-adventures-description.jpg" alt="" class="wp-image-9012" srcset="/wp-content/uploads/dynamax-adventures-description.jpg 706w, /wp-content/uploads/dynamax-adventures-description-300x213.jpg 300w" sizes="(max-width: 706px) 100vw, 706px" /></a></figure>
 
 
 
@@ -1812,7 +1693,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1836,7 +1717,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/10/dynamax-adventures-rental.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/10/dynamax-adventures-rental-1024x576.jpg" alt="Pokemon are rented in Dynamax Adventures" class="wp-image-1335"/></a><figcaption>Pokemon are rented in Dynamax Adventures</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/dynamax-adventures-rental.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/dynamax-adventures-rental-1024x576.jpg" alt="" class="wp-image-9015" srcset="/wp-content/uploads/dynamax-adventures-rental-1024x576.jpg 1024w, /wp-content/uploads/dynamax-adventures-rental-300x169.jpg 300w, /wp-content/uploads/dynamax-adventures-rental-768x432.jpg 768w, /wp-content/uploads/dynamax-adventures-rental.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Pokemon are rented in Dynamax Adventures</figcaption></figure>
 
 
 
@@ -1844,7 +1725,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1868,7 +1749,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/10/dynamax-adventures-reward.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/10/dynamax-adventures-reward-1024x576.jpg" alt="Legendaries are captured in Dynamax Adventures" class="wp-image-1336"/></a><figcaption>Legendary Pokemon are the main reward from Dynamax Adventures</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/dynamax-adventures-reward.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/dynamax-adventures-reward-1024x576.jpg" alt="" class="wp-image-9016" srcset="/wp-content/uploads/dynamax-adventures-reward-1024x576.jpg 1024w, /wp-content/uploads/dynamax-adventures-reward-300x169.jpg 300w, /wp-content/uploads/dynamax-adventures-reward-768x432.jpg 768w, /wp-content/uploads/dynamax-adventures-reward.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Legendary Pokemon are the main reward from Dynamax Adventures</figcaption></figure>
 
 
 
@@ -1880,7 +1761,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1908,11 +1789,11 @@
 
 
 
-<p>Unlike Max Raid Battles, you don&#8217;t get TRs or EXP candies. Despite being a good source of Dynite Ore, once you capture each legendary, you&#8217;ll have very little incentive to continue doing Dynamax Adventures. You can trade your Dynite Ore for Armorite Ore, which can then by converted into Watts at Digging Pa. For more on this process, check out our guide on <a href="https://marvweb.com/farm-watts-in-isle-of-armor/">Watt Farming</a>. Unfortunately, the exchange rate isn&#8217;t great and if you are targeting Watts specifically; it&#8217;s probably best to just farm the Armorite Ore instead. </p>
+<p>Unlike Max Raid Battles, you don&#8217;t get TRs or EXP candies. Despite being a good source of Dynite Ore, once you capture each legendary, you&#8217;ll have very little incentive to continue doing Dynamax Adventures. You can trade your Dynite Ore for Armorite Ore, which can then by converted into Watts at Digging Pa. For more on this process, check out our guide on <a href="/farm-watts-in-isle-of-armor/">Watt Farming</a>. Unfortunately, the exchange rate isn&#8217;t great and if you are targeting Watts specifically; it&#8217;s probably best to just farm the Armorite Ore instead. </p>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1944,7 +1825,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/10/dynamax-adventures-path.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/10/dynamax-adventures-path-1024x576.jpg" alt="You pick your path through the adventure" class="wp-image-1339"/></a></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/dynamax-adventures-path.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/dynamax-adventures-path-1024x576.jpg" alt="" class="wp-image-9014" srcset="/wp-content/uploads/dynamax-adventures-path-1024x576.jpg 1024w, /wp-content/uploads/dynamax-adventures-path-300x169.jpg 300w, /wp-content/uploads/dynamax-adventures-path-768x432.jpg 768w, /wp-content/uploads/dynamax-adventures-path.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -1960,7 +1841,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1988,7 +1869,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -2066,7 +1947,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/10/access-crown-tundra-pass.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/10/access-crown-tundra-pass.jpg" alt="" class="wp-image-1348"/></a></figure>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/access-crown-tundra-pass.jpg"><img loading="lazy" decoding="async" width="706" height="574" src="/wp-content/uploads/access-crown-tundra-pass.jpg" alt="" class="wp-image-8214" srcset="/wp-content/uploads/access-crown-tundra-pass.jpg 706w, /wp-content/uploads/access-crown-tundra-pass-300x244.jpg 300w" sizes="(max-width: 706px) 100vw, 706px" /></a></figure>
 
 
 
@@ -2078,7 +1959,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/10/access-crown-tundra-station.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/10/access-crown-tundra-station-1024x445.jpg" alt="The Crown Tundra Train Station" class="wp-image-1269"/></a></figure>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/access-crown-tundra-station.jpg"><img loading="lazy" decoding="async" width="1024" height="445" src="/wp-content/uploads/access-crown-tundra-station-1024x445.jpg" alt="" class="wp-image-8215" srcset="/wp-content/uploads/access-crown-tundra-station-1024x445.jpg 1024w, /wp-content/uploads/access-crown-tundra-station-300x130.jpg 300w, /wp-content/uploads/access-crown-tundra-station-768x334.jpg 768w, /wp-content/uploads/access-crown-tundra-station.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -2095,6 +1976,348 @@
 
 
 <hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>G-Max Coalossal Steam Engine Sweeper (Sw/Sh Doubles)</title>
+		<link>/coalossal-swsh-doubles/</link>
+		
+		<dc:creator><![CDATA[Matt]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2020 07:35:29 +0000</pubDate>
+				<category><![CDATA[Builds]]></category>
+		<category><![CDATA[Pokemon: Sword & Shield]]></category>
+		<guid isPermaLink="false">https://marvweb.com/?p=1068</guid>
+
+					<description><![CDATA[G-Max Coalossal can outspeed and OHKO almost anything with this Steam Engine Weakness Policy doubles team for Pokemon Sword &#038; Shield. ]]></description>
+										<content:encoded><![CDATA[
+<p>This doubles strategy makes use of <a href="https://www.serebii.net/pokedex-swsh/coalossal/">Coalossal&#8217;s</a> ability <a href="https://www.serebii.net/abilitydex/steamengine.shtml">Steam Engine</a> ability to give it a huge speed boost while also doubling its Special Attack through <a href="https://www.serebii.net/itemdex/weaknesspolicy.shtml">Weakness Policy</a>, allowing Coalossal to OHKO most Pokemon with its great type coverage. It also sets up G-Max Volcalith to whittle down defensive opponents.</p>
+
+
+
+<h2 class="wp-block-heading">G-Max Coalossal&#8217;s Build</h2>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/coalossal-swsh-doubles-stats.jpg"><img loading="lazy" decoding="async" width="927" height="550" src="/wp-content/uploads/coalossal-swsh-doubles-stats.jpg" alt="" class="wp-image-8979" srcset="/wp-content/uploads/coalossal-swsh-doubles-stats.jpg 927w, /wp-content/uploads/coalossal-swsh-doubles-stats-300x178.jpg 300w, /wp-content/uploads/coalossal-swsh-doubles-stats-768x456.jpg 768w" sizes="(max-width: 927px) 100vw, 927px" /></a></figure>
+
+
+
+<p>Coalossal makes up for its terrible speed with great special attack and good bulk. With a base stat of 110 HP, it is a great target to Dynamax since Dynamaxing doubles the Pokemon&#8217;s health. However, it has a 4x weakness to Water, meaning that hard hitting Water moves can still OHKO it.  </p>
+
+
+
+<p>Coalossal&#8217;s nature and EV distribution is left a bit up to choice. The most important stats for Coalossal are Special Attack, Speed, and HP. Focusing on Special Attack and Speed give Coalossal the best chance of being able to OHKO a Pokemon before it gets its turn. However, in situations where you won&#8217;t be able to OHKO or the opponent has priority moves, the extra bulk from HP will significantly increase how long Coalossal lives. HP is also a great choice if you expect that your opponent will be able to shut down your Water Enabler (see <a href="#counters">Counters</a>). </p>
+
+
+
+<p>You can also min/max a bit with the SpA and Spe values to just perfectly outspeed or OHKO the Pokemon you expect to be up against, allowing you to put more EVs into HP. Since it is tough to account for every possible scenario, especially with the prevalence of speed increases like Max Airstream, I suggest just maxing EVs in SpA and Spe, even if it ends up being a bit overkill.</p>
+
+
+
+<p>The moves are chosen to maximize G-Max damage; Coalossal will not be very effective when not G-Maxed, but if you get three G-Max moves off with this build, you are likely doing well.</p>
+
+
+
+<h4 class="wp-block-heading has-text-align-center">G-Max <a href="https://www.serebii.net/pokedex-swsh/coalossal/">Coalossal</a></h4>
+
+
+
+<figure class="wp-block-table aligncenter"><table><tbody><tr><td>Nature</td><td>Timid (+Spe, -Atk)<br>Modest (+SpA, -Atk)</td></tr><tr><td>Ability</td><td>Steam Engine</td></tr><tr><td>Item</td><td>Weakness Policy</td></tr><tr><td>EVs</td><td>SpA: 252<br>Spe: 252<br>HP: 4</td></tr><tr><td>Moves</td><td>Meteor Beam (G-Max Volcalith)<br>Fire Blast (Max Flare)<br>Solar Beam (Max Overgrowth)<br>Earth Power (Max Quake)</td></tr></tbody></table></figure>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/coalossal-swsh-doubles-moves.jpg"><img loading="lazy" decoding="async" width="533" height="176" src="/wp-content/uploads/coalossal-swsh-doubles-moves.jpg" alt="" class="wp-image-8978" srcset="/wp-content/uploads/coalossal-swsh-doubles-moves.jpg 533w, /wp-content/uploads/coalossal-swsh-doubles-moves-300x99.jpg 300w" sizes="(max-width: 533px) 100vw, 533px" /></a></figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
+
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
+
+
+
+<h2 class="wp-block-heading">Water Enabler&#8217;s Build</h2>
+
+
+
+<p>To trigger Coalossal&#8217;s Steam Engine and Weakness policy at the same time, you will want to hit it with a water move. There are two good options for water moves to use on your Coalossal &#8211; Aqua Jet and Surf.</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://serebii.net/attackdex-swsh/aquajet.shtml">Aqua Jet</a></h3>
+
+
+
+<p>The best option to guarantee you outspeed your opponent is Aqua Jet, a <strong>+1 priority</strong> water move. Aqua Jet allows your Water Enabler to bypass speed concerns, opening up a more diverse set of builds, including bulky supports. </p>
+
+
+
+<p>Where Aqua Jet will have issues when compared to Surf is against Follow Me and Rage Powder. These moves will redirect your Aqua Jet into the other Pokemon instead of Coalossal. See <a href="#counters">Counters </a>for more on this.</p>
+
+
+
+<p>A couple good options to consider for an Aqua Jet Water Enabler:</p>
+
+
+
+<ul>
+<li><a href="https://www.serebii.net/pokedex-swsh/azumarill/">Azumarill </a>&#8211; 50 Atk, 100 HP, bulky, Light Screen, Grass absorb</li>
+
+
+
+<li><a href="https://serebii.net/pokedex-swsh/clawitzer/">Clawitzer </a>&#8211; 73 Atk, 120 SpA, solid Special Attacker</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><a href="https://www.serebii.net/pokedex-swsh/azumarill">Azumarill</a></h4>
+
+
+
+<figure class="wp-block-table aligncenter"><table><tbody><tr><td>Nature</td><td>Modest (+SpA, -Atk)</td></tr><tr><td>Ability</td><td>Sap Sipper</td></tr><tr><td>Item</td><td>Leftovers<br>Wacan Berry<br>Kebia Berry<br>Sitrus Berry</td></tr><tr><td>IVs</td><td>Atk: 0</td></tr><tr><td>EVs</td><td>HP: 252<br>SpA: 252<br>Def/SpD: 4</td></tr><tr><td>Moves</td><td>Aqua Jet<br>Light Screen<br>Hydro Pump / Scald<br>Hyper Voice / Ice Beam</td></tr></tbody></table></figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><a href="https://serebii.net/pokedex-swsh/clawitzer/">Clawitzer</a></h4>
+
+
+
+<figure class="wp-block-table aligncenter"><table><tbody><tr><td>Nature</td><td>Modest (+SpA, -Atk)</td></tr><tr><td>Ability</td><td>Mega Launcher</td></tr><tr><td>Item</td><td>Life Orb</td></tr><tr><td>IVs</td><td>Atk: 0</td></tr><tr><td>EVs</td><td>SpA: 252<br>Spe: 252<br>HP: 4</td></tr><tr><td>Moves</td><td>Aqua Jet<br>Scald / Water Pulse<br>Ice Beam / Dragon Pulse<br>Dark Pulse / Aura Sphere</td></tr></tbody></table></figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
+
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
+
+
+
+<h3 class="wp-block-heading"><a href="https://www.serebii.net/attackdex-sm/surf.shtml">Surf</a></h3>
+
+
+
+<p>Another option instead of Aqua Jet is to bring Surf on a fast Pokemon. Similar to Aqua Jet, you will want this move to hit for very little. The benefit of Surf over Aqua Jet is Surf <strong>hits the entire field</strong>. This ignores one of the major counters to an Aqua Jet setup, Follow Me and Rage Powder. The AoE of Surf also hits opponents, removing their Focus Sashes before Coalossal gets its first hit.</p>
+
+
+
+<p>The issue with Surf is that your snabler is more vulnerable to priority moves and fast Pokemon. Whimsicott&#8217;s Trickster priority Tailwind can make many Pokemon faster than your Water Enabler, potentially OHKOing it before it gets Surf off. See <a href="#counters">Counters </a>for more on this.</p>
+
+
+
+<p>Some Pokemon to consider as Surf Water Enablers:</p>
+
+
+
+<ul id="block-913754ec-e6f8-4707-822f-69a39aecb32b">
+<li><a href="https://www.serebii.net/pokedex-swsh/weavile/">Weavile </a>&#8211; 125 Speed, 45 Special Attack, non-STAB Water</li>
+
+
+
+<li><a href="https://www.serebii.net/pokedex-swsh/dragapult/">Dragapult </a>&#8211; 142 Speed, 100 Special Attack, non-STAB Water</li>
+
+
+
+<li><a href="https://www.serebii.net/pokedex-swsh/barraskewda/">Barraskewda</a> &#8211; 136 Speed, 60 Special Attack</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><a href="https://www.serebii.net/pokedex-swsh/weavile/">Weavile</a></h4>
+
+
+
+<figure class="wp-block-table aligncenter"><table><tbody><tr><td>Nature</td><td>Jolly (+Spe, -SpA)</td></tr><tr><td>Ability</td><td>Pressure</td></tr><tr><td>Item</td><td>Focus Sash<br>Life Orb</td></tr><tr><td>IVs</td><td>SpA: 0</td></tr><tr><td>EVs</td><td>Atk: 252<br>Spe: 252<br>HP: 4</td></tr><tr><td>Moves</td><td>Surf<br>Icicle Crash<br>Ice Shard<br>Knock Off</td></tr></tbody></table></figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><a href="https://www.serebii.net/pokedex-swsh/dragapult/">Dragapult</a></h4>
+
+
+
+<figure class="wp-block-table aligncenter"><table><tbody><tr><td>Nature</td><td>Jolly (+Spe, -SpA)</td></tr><tr><td>Ability</td><td>Infiltrator<br>Clear Body</td></tr><tr><td>Item</td><td>Focus Sash<br>Life Orb<br>Colbur Berry</td></tr><tr><td>IVs</td><td>SpA: 0</td></tr><tr><td>EVs</td><td>Atk: 252<br>Spe: 252<br>HP: 4</td></tr><tr><td>Moves</td><td>Surf<br>Phantom Force<br>Dragon Claw/Darts<br>Sucker Punch</td></tr></tbody></table></figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><a href="https://www.serebii.net/pokedex-swsh/barraskewda/">Barraskewda</a></h4>
+
+
+
+<figure class="wp-block-table aligncenter"><table><tbody><tr><td>Nature</td><td>Jolly (+Spe, -SpA)</td></tr><tr><td>Ability</td><td>Propeller Tail</td></tr><tr><td>Item</td><td>Focus Sash</td></tr><tr><td>IVs</td><td>SpA: 0</td></tr><tr><td>EVs</td><td>Atk: 252<br>Spe: 252<br>HP: 4</td></tr><tr><td>Moves</td><td>Surf<br>Liquidation<br>Close Combat<br>Psychic Fangs</td></tr></tbody></table></figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
+
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
+
+
+
+<h3 class="wp-block-heading">Minimize Damage</h3>
+
+
+
+<p>Whether you pick Aqua Jet, Surf, or any other water move, you will want it to hit for as little as possible to avoid dealing unnecessary damage to your Coalossal. This means that you should have a 0 IV (&#8220;No Good&#8221;) in the associated damage stat (Attack for Aqua Jet and Special Attack for Surf). This will keep your Coalossal as healthy as possible and potentially allow it to take a few hits.</p>
+
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
+
+
+
+<h2 class="wp-block-heading">The Strategy: Attack Your Coalossal With Water</h2>
+
+
+
+<p>In an ideal opening turn (with no counters), G-Max your Coalossal and aim to OHKO any threats to Coalossal, like water types. If you don&#8217;t need to pick a specific move to guarantee a kill, try to set up G-Max Volcalith as soon as possible. Volcalith&#8217;s 1/6 health per turn to both opponents adds up quickly and counters any Focus Sash they may have.</p>
+
+
+
+<p>With your Water Enabler. hit Coalossal with the water ability to trigger Steam Engine and Weakness Policy. Steam Engine will make Coalossal faster than most Pokemon, especially on turn one before they&#8217;ve had much of a chance to setup. Weakness Policy will give a +2 to Coalossal&#8217;s Special Attack, effectively doubling the amount of damage it deals.  </p>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
+
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
+
+
+
+<h2 class="wp-block-heading" id="counters">G-Max Coalossal Counters</h2>
+
+
+
+<h3 class="wp-block-heading">Focus Sash Water Attacker</h3>
+
+
+
+<p>A Focus Sashed Pokemon with a powerful water type move can OHKO Coalossal. Remember that Coalossal takes 4x damage from water.  Coalossal can outspeed almost any Pokemon once Steam Engine is active and G-Max Volcalith will finish off any sashed Pokemon at the end of the turn. However, you won&#8217;t be able to stop a Pokemon with a Focus Sash from hitting Coalossal at least once. </p>
+
+
+
+<p>To account for this, you can bring Fake Out on your Water Enabler and try to take out the sashed Pokemon without Weakness Policy. You might consider switching in a Pokemon that resists or absorbs water and bring Coalossal back once the threat is gone. The issue with Focus Sash is that you won&#8217;t know for sure if a Pokemon has one. Pokemon that are likely to have a Focus Sash are hard hitting but low health &#8216;glass cannons&#8217; like Barraskewda.</p>
+
+
+
+<h3 class="wp-block-heading">Fake Out</h3>
+
+
+
+<p>Fake Out can stop you Water Enabler from activating Coalossal. This will not only stop Weakness Policy on Coalossal, but also block the activation of Steam Engine. Your opponent&#8217;s other Pokemon can potentially take Coalossal down before it gets to do anything. </p>
+
+
+
+<p>The best way to deal with a Fake Out starter is to replace one of Coalossal&#8217;s moves with Protect. Use Protect on your first turn and do the combo on the second. Your opponent may go for you Water Enabler though, so a Protect, Fake Out, or a Focus Sash can help get them to the next turn. The issue here is that you&#8217;ll be losing one of your coverage moves on Coalossal, though having Max Guard against other threats is always nice. </p>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
+
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4537180102637521" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4537180102637521" data-ad-slot="5280630734"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<hr class="wp-block-separator has-text-color has-background" style="background-color:#663399;color:#663399"/>
+
+
+
+<h3 class="wp-block-heading">Water Enabler Counters</h3>
+
+
+
+<h4 class="wp-block-heading">Redirect &#8211; Aqua Jet Counter</h4>
+
+
+
+<p>Aqua Jet is a targeted ability. If your opponent uses Follow Me or any other redirect move, Aqua Jet will attack the new target instead of Coalossal. Redirect moves have a higher priority than Aqua Jet, so you won&#8217;t be able to go before it. If you don&#8217;t deal with a redirector, they will likely redirect the next turn as well.</p>
+
+
+
+<p>This is very hard to deal with on an Aqua Jet setup. Barraskewda can learn Aqua Jet and has the ability Propeller Tail, which ignores redirects. However, Barraskewda hits very hard with Aqua Jet, even with a 0 IV, so be careful hitting your Coalossal with it. For other Pokemon, the best way to get around it is to take out the redirector on the first turn and hope that your opponents other Pokemon doesn&#8217;t hit too hard.</p>
+
+
+
+<h4 class="wp-block-heading">Fast Pokemon &#8211; Surf Counter</h4>
+
+
+
+<p>Surf is not a priority move. Your opponent can go before you and potentially OHKO your Water Enabler or Coalossal before you get a chance to activate Steam Engine. </p>
+
+
+
+<p>A Focus Sash on your Water Enabler can keep them alive through at least one hit. Picking a high speed Surf Pokemon is important to not run into this counter too often.</p>
 ]]></content:encoded>
 					
 		

@@ -11,31 +11,13 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 25 Jan 2024 08:45:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Mar 2024 21:43:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
-		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/hello-world/#comment-1</link>
-
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Thu, 25 Jan 2024 08:45:50 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
 		<title>
 		Comment on Steel Path: Exequias &#8211; Zealoid Prelate (Solo) by Ken		</title>
 		<link>/warframe/steel-path/exequias-zealoid-prelate/#comment-72</link>
@@ -123,20 +105,6 @@ Thanks for these Grendel guides, super helpful!</p>
 			</item>
 		<item>
 		<title>
-		Comment on Shadowlands Twink Tips by abysal		</title>
-		<link>/shadowlands-twink/#comment-587</link>
-
-		<dc:creator><![CDATA[abysal]]></dc:creator>
-		<pubDate>Mon, 22 Mar 2021 21:19:39 +0000</pubDate>
-		<guid isPermaLink="false">https://marvweb.com/?p=1367#comment-587</guid>
-
-					<description><![CDATA[there is a vendor in org that sells gear for honor, not marks of honor, that is 40+ ilvls higher than heirloom gear of the same level.]]></description>
-			<content:encoded><![CDATA[<p>there is a vendor in org that sells gear for honor, not marks of honor, that is 40+ ilvls higher than heirloom gear of the same level.</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
 		Comment on Isolation Vaults by Deimos Arcana Update - New Necramech - MarvWeb		</title>
 		<link>/warframe/deimos/isolation-vaults/#comment-163</link>
 
@@ -160,6 +128,34 @@ Thanks for these Grendel guides, super helpful!</p>
 
 					<description><![CDATA[[&#8230;] Conservation targets now reward more tags based on level of success [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] Conservation targets now reward more tags based on level of success [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Necraloid Syndicate &#8211; Heart of Deimos by Deimos Arcana Update - New Necramech - MarvWeb		</title>
+		<link>/warframe/deimos/necraloid-syndicate/#comment-119</link>
+
+		<dc:creator><![CDATA[Deimos Arcana Update - New Necramech - MarvWeb]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2020 19:58:35 +0000</pubDate>
+		<guid isPermaLink="false">https://marvweb.com/?p=797#comment-119</guid>
+
+					<description><![CDATA[[&#8230;] blueprints can be acquired from the Necraloid Syndicate, with the main blueprint obtainable at max rank (Rank 3: Odima) for 10,000 standing and the four [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] blueprints can be acquired from the Necraloid Syndicate, with the main blueprint obtainable at max rank (Rank 3: Odima) for 10,000 standing and the four [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Fastest Watt Farm in Isle of Armor by How Good Are Dynamax Adventures - A Legendary Adventure - MarvWeb		</title>
+		<link>/farm-watts-in-isle-of-armor/#comment-363</link>
+
+		<dc:creator><![CDATA[How Good Are Dynamax Adventures - A Legendary Adventure - MarvWeb]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2020 20:17:57 +0000</pubDate>
+		<guid isPermaLink="false">https://marvweb.com/?p=278#comment-363</guid>
+
+					<description><![CDATA[[&#8230;] can then by converted into Watts at Digging Pa. For more on this process, check out our guide on Watt Farming. Unfortunately, the exchange rate isn&#8217;t great and if you are targeting Watts specifically; [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] can then by converted into Watts at Digging Pa. For more on this process, check out our guide on Watt Farming. Unfortunately, the exchange rate isn&#8217;t great and if you are targeting Watts specifically; [&#8230;]</p>
 ]]></content:encoded>
 		
 			</item>
