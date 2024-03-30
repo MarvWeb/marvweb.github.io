@@ -12,7 +12,7 @@
 	<atom:link href="/category/builds/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 07 Oct 2020 07:35:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Mar 2024 21:28:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,7 +39,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/10/coalossal-swsh-doubles-stats.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/10/coalossal-swsh-doubles-stats.jpg" alt="Coalossal, Steam Engine, Spd+, Atk-, 252 Spd, 252 SpA" class="wp-image-1134"/></a></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/coalossal-swsh-doubles-stats.jpg"><img fetchpriority="high" decoding="async" width="927" height="550" src="/wp-content/uploads/coalossal-swsh-doubles-stats.jpg" alt="" class="wp-image-8979" srcset="/wp-content/uploads/coalossal-swsh-doubles-stats.jpg 927w, /wp-content/uploads/coalossal-swsh-doubles-stats-300x178.jpg 300w, /wp-content/uploads/coalossal-swsh-doubles-stats-768x456.jpg 768w" sizes="(max-width: 927px) 100vw, 927px" /></a></figure>
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-<h4 class="has-text-align-center wp-block-heading">G-Max <a href="https://www.serebii.net/pokedex-swsh/coalossal/">Coalossal</a></h4>
+<h4 class="wp-block-heading has-text-align-center">G-Max <a href="https://www.serebii.net/pokedex-swsh/coalossal/">Coalossal</a></h4>
 
 
 
@@ -67,11 +67,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/10/coalossal-swsh-doubles-moves.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/10/coalossal-swsh-doubles-moves.jpg" alt="Coalossal's moves" class="wp-image-1135"/></a></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/coalossal-swsh-doubles-moves.jpg"><img decoding="async" width="533" height="176" src="/wp-content/uploads/coalossal-swsh-doubles-moves.jpg" alt="" class="wp-image-8978" srcset="/wp-content/uploads/coalossal-swsh-doubles-moves.jpg 533w, /wp-content/uploads/coalossal-swsh-doubles-moves-300x99.jpg 300w" sizes="(max-width: 533px) 100vw, 533px" /></a></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -111,11 +111,17 @@
 
 
 
-<ul><li><a href="https://www.serebii.net/pokedex-swsh/azumarill/">Azumarill </a>&#8211; 50 Atk, 100 HP, bulky, Light Screen, Grass absorb</li><li><a href="https://serebii.net/pokedex-swsh/clawitzer/">Clawitzer </a>&#8211; 73 Atk, 120 SpA, solid Special Attacker</li></ul>
+<ul>
+<li><a href="https://www.serebii.net/pokedex-swsh/azumarill/">Azumarill </a>&#8211; 50 Atk, 100 HP, bulky, Light Screen, Grass absorb</li>
 
 
 
-<h4 class="has-text-align-center wp-block-heading"><a href="https://www.serebii.net/pokedex-swsh/azumarill">Azumarill</a></h4>
+<li><a href="https://serebii.net/pokedex-swsh/clawitzer/">Clawitzer </a>&#8211; 73 Atk, 120 SpA, solid Special Attacker</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><a href="https://www.serebii.net/pokedex-swsh/azumarill">Azumarill</a></h4>
 
 
 
@@ -123,11 +129,11 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
-<h4 class="has-text-align-center wp-block-heading"><a href="https://serebii.net/pokedex-swsh/clawitzer/">Clawitzer</a></h4>
+<h4 class="wp-block-heading has-text-align-center"><a href="https://serebii.net/pokedex-swsh/clawitzer/">Clawitzer</a></h4>
 
 
 
@@ -135,7 +141,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -167,11 +173,21 @@
 
 
 
-<ul id="block-913754ec-e6f8-4707-822f-69a39aecb32b"><li><a href="https://www.serebii.net/pokedex-swsh/weavile/">Weavile </a>&#8211; 125 Speed, 45 Special Attack, non-STAB Water</li><li><a href="https://www.serebii.net/pokedex-swsh/dragapult/">Dragapult </a>&#8211; 142 Speed, 100 Special Attack, non-STAB Water</li><li><a href="https://www.serebii.net/pokedex-swsh/barraskewda/">Barraskewda</a> &#8211; 136 Speed, 60 Special Attack</li></ul>
+<ul id="block-913754ec-e6f8-4707-822f-69a39aecb32b">
+<li><a href="https://www.serebii.net/pokedex-swsh/weavile/">Weavile </a>&#8211; 125 Speed, 45 Special Attack, non-STAB Water</li>
 
 
 
-<h4 class="has-text-align-center wp-block-heading"><a href="https://www.serebii.net/pokedex-swsh/weavile/">Weavile</a></h4>
+<li><a href="https://www.serebii.net/pokedex-swsh/dragapult/">Dragapult </a>&#8211; 142 Speed, 100 Special Attack, non-STAB Water</li>
+
+
+
+<li><a href="https://www.serebii.net/pokedex-swsh/barraskewda/">Barraskewda</a> &#8211; 136 Speed, 60 Special Attack</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><a href="https://www.serebii.net/pokedex-swsh/weavile/">Weavile</a></h4>
 
 
 
@@ -179,11 +195,11 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
-<h4 class="has-text-align-center wp-block-heading"><a href="https://www.serebii.net/pokedex-swsh/dragapult/">Dragapult</a></h4>
+<h4 class="wp-block-heading has-text-align-center"><a href="https://www.serebii.net/pokedex-swsh/dragapult/">Dragapult</a></h4>
 
 
 
@@ -191,11 +207,11 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
-<h4 class="has-text-align-center wp-block-heading"><a href="https://www.serebii.net/pokedex-swsh/barraskewda/">Barraskewda</a></h4>
+<h4 class="wp-block-heading has-text-align-center"><a href="https://www.serebii.net/pokedex-swsh/barraskewda/">Barraskewda</a></h4>
 
 
 
@@ -203,7 +219,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -239,7 +255,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -255,7 +271,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -299,7 +315,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -365,7 +381,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -373,7 +389,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/09/thief-tagging-build.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/09/thief-tagging-build.jpg" alt="The skills and traits for a thief tag build" class="wp-image-1042"/></a><figcaption><em>Thief Tagging Build</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/thief-tagging-build.jpg"><img decoding="async" width="651" height="639" src="/wp-content/uploads/thief-tagging-build.jpg" alt="" class="wp-image-9404" srcset="/wp-content/uploads/thief-tagging-build.jpg 651w, /wp-content/uploads/thief-tagging-build-300x294.jpg 300w" sizes="(max-width: 651px) 100vw, 651px" /></a><figcaption class="wp-element-caption"><em>Thief Tagging Build</em></figcaption></figure>
 
 
 
@@ -389,7 +405,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/09/thief-tagging-abilities.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/09/thief-tagging-abilities.jpg" alt="" class="wp-image-1043"/></a><figcaption><em>Weapons and Skills</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/thief-tagging-abilities.jpg"><img loading="lazy" decoding="async" width="651" height="124" src="/wp-content/uploads/thief-tagging-abilities.jpg" alt="" class="wp-image-9402" srcset="/wp-content/uploads/thief-tagging-abilities.jpg 651w, /wp-content/uploads/thief-tagging-abilities-300x57.jpg 300w" sizes="(max-width: 651px) 100vw, 651px" /></a><figcaption class="wp-element-caption"><em>Weapons and Skills</em></figcaption></figure>
 
 
 
@@ -405,7 +421,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -425,7 +441,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/09/thief-tagging-daredevil.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/09/thief-tagging-daredevil.jpg" alt="" class="wp-image-1044"/></a><figcaption><em>Daredevil: 2 2 3</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/thief-tagging-daredevil.jpg"><img loading="lazy" decoding="async" width="651" height="139" src="/wp-content/uploads/thief-tagging-daredevil.jpg" alt="" class="wp-image-9405" srcset="/wp-content/uploads/thief-tagging-daredevil.jpg 651w, /wp-content/uploads/thief-tagging-daredevil-300x64.jpg 300w" sizes="(max-width: 651px) 100vw, 651px" /></a><figcaption class="wp-element-caption"><em>Daredevil: 2 2 3</em></figcaption></figure>
 
 
 
@@ -433,11 +449,11 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/09/thief-tagging-trickery.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/09/thief-tagging-trickery.jpg" alt="" class="wp-image-1045"/></a><figcaption><em>Trickery: 1 1 1</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/thief-tagging-trickery.jpg"><img loading="lazy" decoding="async" width="651" height="139" src="/wp-content/uploads/thief-tagging-trickery.jpg" alt="" class="wp-image-9407" srcset="/wp-content/uploads/thief-tagging-trickery.jpg 651w, /wp-content/uploads/thief-tagging-trickery-300x64.jpg 300w" sizes="(max-width: 651px) 100vw, 651px" /></a><figcaption class="wp-element-caption"><em>Trickery: 1 1 1</em></figcaption></figure>
 
 
 
@@ -445,11 +461,11 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/09/thief-tagging-acrobatics.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/09/thief-tagging-acrobatics.jpg" alt="" class="wp-image-1046"/></a><figcaption><em>Acrobatics: 1 3 3</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/thief-tagging-acrobatics.jpg"><img loading="lazy" decoding="async" width="651" height="135" src="/wp-content/uploads/thief-tagging-acrobatics.jpg" alt="" class="wp-image-9403" srcset="/wp-content/uploads/thief-tagging-acrobatics.jpg 651w, /wp-content/uploads/thief-tagging-acrobatics-300x62.jpg 300w" sizes="(max-width: 651px) 100vw, 651px" /></a><figcaption class="wp-element-caption"><em>Acrobatics: 1 3 3</em></figcaption></figure>
 
 
 
@@ -457,7 +473,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -469,7 +485,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -521,7 +537,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -551,7 +567,7 @@
 
 					<description><![CDATA[Hildryn can regain the shield spent on Defy during its invulnerability, allowing her to spam Defy forever and making her nearly invincible.]]></description>
 										<content:encoded><![CDATA[
-<p>There is a reason I ranked <a href="https://warframe.fandom.com/wiki/Defy">Defy </a>so high in my <a href="https://marvweb.com/helminth-abilities-which-are-best/">subsume ability tier list</a>. This Hildryn build uses Wukong&#8217;s Helminth ability, Defy, to become immune to damage and reflect damage back to enemies. Because Hildryn uses shields to cast Defy, and she regains those shields during the invulnerability duration, <strong>Hildryn can spam Defy forever.</strong></p>
+<p>There is a reason I ranked <a href="https://warframe.fandom.com/wiki/Defy">Defy </a>so high in my <a href="/helminth-abilities-which-are-best/">subsume ability tier list</a>. This Hildryn build uses Wukong&#8217;s Helminth ability, Defy, to become immune to damage and reflect damage back to enemies. Because Hildryn uses shields to cast Defy, and she regains those shields during the invulnerability duration, <strong>Hildryn can spam Defy forever.</strong></p>
 
 
 
@@ -559,7 +575,17 @@
 
 
 
-<ul><li>Give Hildryn the ability Defy</li><li>Mod for high shield regen and ability strength/range/duration</li><li>Spam Defy to be invulnerable and reflect damage </li></ul>
+<ul>
+<li>Give Hildryn the ability Defy</li>
+
+
+
+<li>Mod for high shield regen and ability strength/range/duration</li>
+
+
+
+<li>Spam Defy to be invulnerable and reflect damage </li>
+</ul>
 
 
 
@@ -567,7 +593,7 @@
 
 
 
-<p>To be able to use Defy on Hildryn, you will need to <a href="https://marvweb.com/how-to-unlock-the-helminth-heart-of-deimos/">unlock your Helminth</a>. Once you have it unlocked, you&#8217;ll need to subsume a non-prime Wukong to unlock its ability. Once this is done, you can replace one of Hildryn&#8217;s abilities with Defy using the Helminth. </p>
+<p>To be able to use Defy on Hildryn, you will need to <a href="/how-to-unlock-the-helminth-heart-of-deimos/">unlock your Helminth</a>. Once you have it unlocked, you&#8217;ll need to subsume a non-prime Wukong to unlock its ability. Once this is done, you can replace one of Hildryn&#8217;s abilities with Defy using the Helminth. </p>
 
 
 
@@ -575,11 +601,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/hildryn-defy-subsume.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/hildryn-defy-subsume-1024x576.jpg" alt="" class="wp-image-958"/></a><figcaption><em>Use the Helminth to replace Aegis Storm or Haven with Defy</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/hildryn-defy-subsume.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/hildryn-defy-subsume-1024x576.jpg" alt="" class="wp-image-9127" srcset="/wp-content/uploads/hildryn-defy-subsume-1024x576.jpg 1024w, /wp-content/uploads/hildryn-defy-subsume-300x169.jpg 300w, /wp-content/uploads/hildryn-defy-subsume-768x432.jpg 768w, /wp-content/uploads/hildryn-defy-subsume-1536x864.jpg 1536w, /wp-content/uploads/hildryn-defy-subsume.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Use the Helminth to replace Aegis Storm or Haven with Defy</em></figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -615,7 +641,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/hildryn-defy-warframe.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/hildryn-defy-warframe-1024x352.jpg" alt="" class="wp-image-953"/></a><figcaption><em>Shield maximum, shield regen, and everything but ability efficiency</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/hildryn-defy-warframe.jpg"><img loading="lazy" decoding="async" width="1024" height="352" src="/wp-content/uploads/hildryn-defy-warframe-1024x352.jpg" alt="" class="wp-image-9128" srcset="/wp-content/uploads/hildryn-defy-warframe-1024x352.jpg 1024w, /wp-content/uploads/hildryn-defy-warframe-300x103.jpg 300w, /wp-content/uploads/hildryn-defy-warframe-768x264.jpg 768w, /wp-content/uploads/hildryn-defy-warframe-1536x528.jpg 1536w, /wp-content/uploads/hildryn-defy-warframe.jpg 1581w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Shield maximum, shield regen, and everything but ability efficiency</em></figcaption></figure>
 
 
 
@@ -647,7 +673,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -683,11 +709,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/hildryn-defy-damage.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/hildryn-defy-damage-1024x625.jpg" alt="" class="wp-image-961"/></a><figcaption><em>Stack them up, reflect damage</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/hildryn-defy-damage.jpg"><img loading="lazy" decoding="async" width="1024" height="625" src="/wp-content/uploads/hildryn-defy-damage-1024x625.jpg" alt="" class="wp-image-9125" srcset="/wp-content/uploads/hildryn-defy-damage-1024x625.jpg 1024w, /wp-content/uploads/hildryn-defy-damage-300x183.jpg 300w, /wp-content/uploads/hildryn-defy-damage-768x468.jpg 768w, /wp-content/uploads/hildryn-defy-damage.jpg 1377w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Stack them up, reflect damage</em></figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -717,7 +743,7 @@
 
 					<description><![CDATA[With this specialized Octavia build, you can stay in a Survival mission for as long as you want. With infinite invisibility and damage that scales off of your enemies, multi-hour Survivals are easy. This build even works with Steel Path, making it a great Steel Essence farm in addition to the other resources you&#8217;ll be [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>With this specialized Octavia build, you can stay in a Survival mission for as long as you want. With infinite invisibility and damage that scales off of your enemies, multi-hour Survivals are easy. This build even works with <a href="https://marvweb.com/the-steel-path/">Steel Path</a>, making it a great Steel Essence farm in addition to the other resources you&#8217;ll be getting.</p>
+<p>With this specialized Octavia build, you can stay in a Survival mission for as long as you want. With infinite invisibility and damage that scales off of your enemies, multi-hour Survivals are easy. This build even works with <a href="/the-steel-path/">Steel Path</a>, making it a great Steel Essence farm in addition to the other resources you&#8217;ll be getting.</p>
 
 
 
@@ -725,11 +751,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-results.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-results-1024x576.jpg" alt="" class="wp-image-697"/></a><figcaption>Results after 4 hours</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/steel-essence-farm-results.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/steel-essence-farm-results-1024x576.jpg" alt="" class="wp-image-9351" srcset="/wp-content/uploads/steel-essence-farm-results-1024x576.jpg 1024w, /wp-content/uploads/steel-essence-farm-results-300x169.jpg 300w, /wp-content/uploads/steel-essence-farm-results-768x432.jpg 768w, /wp-content/uploads/steel-essence-farm-results-1536x864.jpg 1536w, /wp-content/uploads/steel-essence-farm-results.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Results after 4 hours</figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -761,7 +787,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-octavia.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-octavia-1024x356.jpg" alt="" class="wp-image-699"/></a><figcaption>Duration &gt; Range &gt; Strength &gt; Efficiency</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/steel-essence-farm-octavia.jpg"><img loading="lazy" decoding="async" width="1024" height="356" src="/wp-content/uploads/steel-essence-farm-octavia-1024x356.jpg" alt="" class="wp-image-9349" srcset="/wp-content/uploads/steel-essence-farm-octavia-1024x356.jpg 1024w, /wp-content/uploads/steel-essence-farm-octavia-300x104.jpg 300w, /wp-content/uploads/steel-essence-farm-octavia-768x267.jpg 768w, /wp-content/uploads/steel-essence-farm-octavia-1536x534.jpg 1536w, /wp-content/uploads/steel-essence-farm-octavia.jpg 1578w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Duration &gt; Range &gt; Strength &gt; Efficiency</figcaption></figure>
 
 
 
@@ -777,11 +803,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-radiation.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-radiation-1024x406.jpg" alt="" class="wp-image-698"/></a><figcaption>Radiation, high status, AoE</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/steel-essence-farm-radiation.jpg"><img loading="lazy" decoding="async" width="1024" height="406" src="/wp-content/uploads/steel-essence-farm-radiation-1024x406.jpg" alt="" class="wp-image-9350" srcset="/wp-content/uploads/steel-essence-farm-radiation-1024x406.jpg 1024w, /wp-content/uploads/steel-essence-farm-radiation-300x119.jpg 300w, /wp-content/uploads/steel-essence-farm-radiation-768x304.jpg 768w, /wp-content/uploads/steel-essence-farm-radiation.jpg 1371w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Radiation, high status, AoE</figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -817,7 +843,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -849,7 +875,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-mallet.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-mallet-1024x576.jpg" alt="" class="wp-image-695"/></a><figcaption>Open area, not gathering at doors</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/steel-essence-farm-mallet.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/steel-essence-farm-mallet-1024x576.jpg" alt="" class="wp-image-9348" srcset="/wp-content/uploads/steel-essence-farm-mallet-1024x576.jpg 1024w, /wp-content/uploads/steel-essence-farm-mallet-300x169.jpg 300w, /wp-content/uploads/steel-essence-farm-mallet-768x432.jpg 768w, /wp-content/uploads/steel-essence-farm-mallet-1536x864.jpg 1536w, /wp-content/uploads/steel-essence-farm-mallet.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Open area, not gathering at doors</figcaption></figure>
 
 
 
@@ -861,7 +887,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-drops.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-drops-1024x576.jpg" alt="" class="wp-image-701"/></a><figcaption>With everything up, it&#8217;s time to loot</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/steel-essence-farm-drops.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/steel-essence-farm-drops-1024x576.jpg" alt="" class="wp-image-9345" srcset="/wp-content/uploads/steel-essence-farm-drops-1024x576.jpg 1024w, /wp-content/uploads/steel-essence-farm-drops-300x169.jpg 300w, /wp-content/uploads/steel-essence-farm-drops-768x432.jpg 768w, /wp-content/uploads/steel-essence-farm-drops-1536x864.jpg 1536w, /wp-content/uploads/steel-essence-farm-drops.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">With everything up, it&#8217;s time to loot</figcaption></figure>
 
 
 
@@ -877,11 +903,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-immune.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/steel-essence-farm-immune-1024x576.jpg" alt="" class="wp-image-700"/></a><figcaption>Watch for groups immune to damage</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/steel-essence-farm-immune.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/steel-essence-farm-immune-1024x576.jpg" alt="" class="wp-image-9347" srcset="/wp-content/uploads/steel-essence-farm-immune-1024x576.jpg 1024w, /wp-content/uploads/steel-essence-farm-immune-300x169.jpg 300w, /wp-content/uploads/steel-essence-farm-immune-768x432.jpg 768w, /wp-content/uploads/steel-essence-farm-immune-1536x864.jpg 1536w, /wp-content/uploads/steel-essence-farm-immune.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Watch for groups immune to damage</figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -913,11 +939,25 @@
 
 
 
-<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://marvweb.com/steel-path-lephantis-solo-orokin-derelict-assassinate/steel-path-lephantis-featured/"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/07/steel-path-lephantis-featured.jpg" alt="" data-id="563" data-full-url="https://marvweb.com/wp-content/uploads/2020/07/steel-path-lephantis-featured.jpg" data-link="https://marvweb.com/steel-path-lephantis-solo-orokin-derelict-assassinate/steel-path-lephantis-featured/" class="wp-image-563"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://marvweb.com/steel-path-zealoid-prelate-solo-derelict-emissary-assassinate/steel-path-zealoid-prelate-featured/"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/07/steel-path-zealoid-prelate-featured.jpg" alt="" data-id="580" data-full-url="https://marvweb.com/wp-content/uploads/2020/07/steel-path-zealoid-prelate-featured.jpg" data-link="https://marvweb.com/steel-path-zealoid-prelate-solo-derelict-emissary-assassinate/steel-path-zealoid-prelate-featured/" class="wp-image-580"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://marvweb.com/steel-path-hades-ambulas-solo/steel-path-hades-featured/"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/07/steel-path-hades-featured.jpg" alt="" data-id="547" data-full-url="https://marvweb.com/wp-content/uploads/2020/07/steel-path-hades-featured.jpg" data-link="https://marvweb.com/steel-path-hades-ambulas-solo/steel-path-hades-featured/" class="wp-image-547"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://marvweb.com/steel-path-merrow-kela-de-thaym-solo/steel-path-merrow-featured/"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/07/steel-path-merrow-featured-e1595314416501.jpg" alt="" data-id="532" data-full-url="https://marvweb.com/wp-content/uploads/2020/07/steel-path-merrow-featured-e1595314416501.jpg" data-link="https://marvweb.com/steel-path-merrow-kela-de-thaym-solo/steel-path-merrow-featured/" class="wp-image-532"/></a></figure></li></ul></figure>
+<figure class="wp-block-gallery aligncenter has-nested-images columns-2 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="/warframe/steel-path/magnacidium-lephantis/"><img loading="lazy" decoding="async" width="660" height="371" data-id="9374" src="/wp-content/uploads/steel-path-lephantis-featured.jpg" alt="" class="wp-image-9374" srcset="/wp-content/uploads/steel-path-lephantis-featured.jpg 660w, /wp-content/uploads/steel-path-lephantis-featured-300x169.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<figure class="wp-block-image size-large"><a href="/warframe/steel-path/exequias-zealoid-prelate/"><img loading="lazy" decoding="async" width="660" height="371" data-id="9391" src="/wp-content/uploads/steel-path-zealoid-prelate-featured.jpg" alt="" class="wp-image-9391" srcset="/wp-content/uploads/steel-path-zealoid-prelate-featured.jpg 660w, /wp-content/uploads/steel-path-zealoid-prelate-featured-300x169.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/warframe/steel-path/hades-ambulas/"><img loading="lazy" decoding="async" width="660" height="371" data-id="9365" src="/wp-content/uploads/steel-path-hades-featured.jpg" alt="" class="wp-image-9365" srcset="/wp-content/uploads/steel-path-hades-featured.jpg 660w, /wp-content/uploads/steel-path-hades-featured-300x169.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/warframe/steel-path/merrow-kela-de-thaym/"><img loading="lazy" decoding="async" width="660" height="371" data-id="9380" src="/wp-content/uploads/steel-path-merrow-featured-e1595314416501.jpg" alt="" class="wp-image-9380" srcset="/wp-content/uploads/steel-path-merrow-featured-e1595314416501.jpg 660w, /wp-content/uploads/steel-path-merrow-featured-e1595314416501-300x169.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a></figure>
+</figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -948,7 +988,17 @@
 
 					<description><![CDATA[Learn the easiest way to beat Archaeo-Freighter solo and earn your Grendel Neuroptics blueprint using this speciallized Hildryn build.]]></description>
 										<content:encoded><![CDATA[
-<ul><li><a href="https://marvweb.com/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li><li><a href="https://marvweb.com/mine-of-karishh-solo-grendel-mission-systems/">Systems: Mine of Karishh &#8211; 800 Cryotic Excavation</a></li><li>&gt; Neuroptics: Archaeo-Freighter &#8211; 20 Minute Survival</li></ul>
+<ul>
+<li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
+
+
+
+<li><a href="/mine-of-karishh-solo-grendel-mission-systems/">Systems: Mine of Karishh &#8211; 800 Cryotic Excavation</a></li>
+
+
+
+<li>&gt; Neuroptics: Archaeo-Freighter &#8211; 20 Minute Survival</li>
+</ul>
 
 
 
@@ -960,11 +1010,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/grendel-neuroptics-mission.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-neuroptics-mission-1024x576.jpg" alt="" class="wp-image-678"/></a><figcaption><em>Archaeo-Freighter </em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/grendel-neuroptics-mission.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/grendel-neuroptics-mission-1024x576.jpg" alt="" class="wp-image-9107" srcset="/wp-content/uploads/grendel-neuroptics-mission-1024x576.jpg 1024w, /wp-content/uploads/grendel-neuroptics-mission-300x169.jpg 300w, /wp-content/uploads/grendel-neuroptics-mission-768x432.jpg 768w, /wp-content/uploads/grendel-neuroptics-mission-1536x864.jpg 1536w, /wp-content/uploads/grendel-neuroptics-mission.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Archaeo-Freighter </em></figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1000,7 +1050,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/grendel-chassis-build.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-chassis-build-1024x540.jpg" alt="" class="wp-image-643"/></a><figcaption><em>Only augment mods work</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/grendel-chassis-build.jpg"><img loading="lazy" decoding="async" width="1024" height="540" src="/wp-content/uploads/grendel-chassis-build-1024x540.jpg" alt="" class="wp-image-9097" srcset="/wp-content/uploads/grendel-chassis-build-1024x540.jpg 1024w, /wp-content/uploads/grendel-chassis-build-300x158.jpg 300w, /wp-content/uploads/grendel-chassis-build-768x405.jpg 768w, /wp-content/uploads/grendel-chassis-build.jpg 1059w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Only augment mods work</em></figcaption></figure>
 
 
 
@@ -1016,7 +1066,7 @@
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1048,7 +1098,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/grendel-chassis-pillage.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-chassis-pillage.jpg" alt="" class="wp-image-644"/></a><figcaption><em>Keep Haven up and spam Pillage</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/grendel-chassis-pillage.jpg"><img loading="lazy" decoding="async" width="720" height="999" src="/wp-content/uploads/grendel-chassis-pillage.jpg" alt="" class="wp-image-9102" srcset="/wp-content/uploads/grendel-chassis-pillage.jpg 720w, /wp-content/uploads/grendel-chassis-pillage-216x300.jpg 216w" sizes="(max-width: 720px) 100vw, 720px" /></a><figcaption class="wp-element-caption"><em>Keep Haven up and spam Pillage</em></figcaption></figure>
 
 
 
@@ -1060,7 +1110,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/grendel-neuroptics-bursas.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-neuroptics-bursas-1024x576.jpg" alt="" class="wp-image-676"/></a><figcaption><em>Fragor the Bursas</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/grendel-neuroptics-bursas.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/grendel-neuroptics-bursas-1024x576.jpg" alt="" class="wp-image-9105" srcset="/wp-content/uploads/grendel-neuroptics-bursas-1024x576.jpg 1024w, /wp-content/uploads/grendel-neuroptics-bursas-300x169.jpg 300w, /wp-content/uploads/grendel-neuroptics-bursas-768x432.jpg 768w, /wp-content/uploads/grendel-neuroptics-bursas-1536x864.jpg 1536w, /wp-content/uploads/grendel-neuroptics-bursas.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Fragor the Bursas</em></figcaption></figure>
 
 
 
@@ -1068,11 +1118,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/grendel-neuroptics-nullifier.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-neuroptics-nullifier-1024x576.jpg" alt="" class="wp-image-677"/></a><figcaption><em>Full charge augmented Balefire for nullifiers</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/grendel-neuroptics-nullifier.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/grendel-neuroptics-nullifier-1024x576.jpg" alt="" class="wp-image-9108" srcset="/wp-content/uploads/grendel-neuroptics-nullifier-1024x576.jpg 1024w, /wp-content/uploads/grendel-neuroptics-nullifier-300x169.jpg 300w, /wp-content/uploads/grendel-neuroptics-nullifier-768x432.jpg 768w, /wp-content/uploads/grendel-neuroptics-nullifier-1536x864.jpg 1536w, /wp-content/uploads/grendel-neuroptics-nullifier.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Full charge augmented Balefire for nullifiers</em></figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1092,15 +1142,31 @@
 
 
 
-<ul><li><a href="https://marvweb.com/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li><li><a href="https://marvweb.com/mine-of-karishh-solo-grendel-mission-systems/">Systems: Mine of Karishh &#8211; 800 Cryotic Excavation</a></li><li>&gt; Neuroptics: Archaeo-Freighter &#8211; 20 Minute Survival</li></ul>
+<ul>
+<li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
 
-<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://marvweb.com/icefields-of-riddah-solo-grendel-chassis/grendel-chassis-featured/"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-chassis-featured-1024x576.jpg" alt="" data-id="642" data-full-url="https://marvweb.com/wp-content/uploads/2020/08/grendel-chassis-featured.jpg" data-link="https://marvweb.com/icefields-of-riddah-solo-grendel-chassis/grendel-chassis-featured/" class="wp-image-642"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://marvweb.com/mine-of-karishh-solo-grendel-mission-systems/grendel-systems-featured/"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-featured-1024x576.jpg" alt="" data-id="663" data-full-url="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-featured.jpg" data-link="https://marvweb.com/mine-of-karishh-solo-grendel-mission-systems/grendel-systems-featured/" class="wp-image-663"/></a></figure></li></ul></figure>
+<li><a href="/mine-of-karishh-solo-grendel-mission-systems/">Systems: Mine of Karishh &#8211; 800 Cryotic Excavation</a></li>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<li>&gt; Neuroptics: Archaeo-Freighter &#8211; 20 Minute Survival</li>
+</ul>
+
+
+
+<figure class="wp-block-gallery aligncenter has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="/icefields-of-riddah-solo-grendel-chassis/"><img loading="lazy" decoding="async" width="1024" height="576" data-id="9099" src="/wp-content/uploads/grendel-chassis-featured-1024x576.jpg" alt="" class="wp-image-9099" srcset="/wp-content/uploads/grendel-chassis-featured-1024x576.jpg 1024w, /wp-content/uploads/grendel-chassis-featured-300x169.jpg 300w, /wp-content/uploads/grendel-chassis-featured-768x432.jpg 768w, /wp-content/uploads/grendel-chassis-featured-1536x864.jpg 1536w, /wp-content/uploads/grendel-chassis-featured.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/mine-of-karishh-solo-grendel-mission-systems/"><img loading="lazy" decoding="async" width="1024" height="576" data-id="9111" src="/wp-content/uploads/grendel-systems-featured-1024x576.jpg" alt="" class="wp-image-9111" srcset="/wp-content/uploads/grendel-systems-featured-1024x576.jpg 1024w, /wp-content/uploads/grendel-systems-featured-300x169.jpg 300w, /wp-content/uploads/grendel-systems-featured-768x432.jpg 768w, /wp-content/uploads/grendel-systems-featured-1536x864.jpg 1536w, /wp-content/uploads/grendel-systems-featured.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1132,7 +1198,17 @@
 
 					<description><![CDATA[Learn the easiest way to beat the Mine of Karishh solo and earn your Grendel Systems blueprint using this speciallized Limbo strategy.]]></description>
 										<content:encoded><![CDATA[
-<ul><li><a href="https://marvweb.com/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li><li>&gt; Systems: Mine of Karishh &#8211; 800 Cryotic Excavation</li><li><a href="https://marvweb.com/archaeo-freighter-solo-grendel-mission-neuroptics/">Neuroptics: Archaeo-Freighter &#8211; 20 Minute Survival</a></li></ul>
+<ul>
+<li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
+
+
+
+<li>&gt; Systems: Mine of Karishh &#8211; 800 Cryotic Excavation</li>
+
+
+
+<li><a href="/archaeo-freighter-solo-grendel-mission-neuroptics/">Neuroptics: Archaeo-Freighter &#8211; 20 Minute Survival</a></li>
+</ul>
 
 
 
@@ -1144,11 +1220,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-mission.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-mission-1024x576.jpg" alt="" class="wp-image-665"/></a><figcaption><em>Mines of Karishh &#8211; Europa</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/grendel-systems-mission.jpg"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/grendel-systems-mission-1024x576.jpg" alt="" class="wp-image-9112" srcset="/wp-content/uploads/grendel-systems-mission-1024x576.jpg 1024w, /wp-content/uploads/grendel-systems-mission-300x169.jpg 300w, /wp-content/uploads/grendel-systems-mission-768x432.jpg 768w, /wp-content/uploads/grendel-systems-mission-1536x864.jpg 1536w, /wp-content/uploads/grendel-systems-mission.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Mines of Karishh &#8211; Europa</em></figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1176,11 +1252,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-build.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-build-1024x406.jpg" alt="" class="wp-image-664"/></a><figcaption><em>Just Limbo</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/grendel-systems-build.jpg"><img loading="lazy" decoding="async" width="1024" height="406" src="/wp-content/uploads/grendel-systems-build-1024x406.jpg" alt="" class="wp-image-9109" srcset="/wp-content/uploads/grendel-systems-build-1024x406.jpg 1024w, /wp-content/uploads/grendel-systems-build-300x119.jpg 300w, /wp-content/uploads/grendel-systems-build-768x304.jpg 768w, /wp-content/uploads/grendel-systems-build.jpg 1371w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Just Limbo</em></figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1208,7 +1284,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-rift.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-rift-853x1024.jpg" alt="" class="wp-image-666"/></a><figcaption><em>Wait in the Rift</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/grendel-systems-rift.jpg"><img loading="lazy" decoding="async" width="853" height="1024" src="/wp-content/uploads/grendel-systems-rift-853x1024.jpg" alt="" class="wp-image-9114" srcset="/wp-content/uploads/grendel-systems-rift-853x1024.jpg 853w, /wp-content/uploads/grendel-systems-rift-250x300.jpg 250w, /wp-content/uploads/grendel-systems-rift-768x922.jpg 768w, /wp-content/uploads/grendel-systems-rift.jpg 900w" sizes="(max-width: 853px) 100vw, 853px" /></a><figcaption class="wp-element-caption"><em>Wait in the Rift</em></figcaption></figure>
 
 
 
@@ -1224,7 +1300,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-excavator.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-excavator-1018x1024.jpg" alt="" class="wp-image-667"/></a><figcaption><em>20 Cryotic per Excavator, 40 Excavators</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/grendel-systems-excavator.jpg"><img loading="lazy" decoding="async" width="1018" height="1024" src="/wp-content/uploads/grendel-systems-excavator-1018x1024.jpg" alt="" class="wp-image-9110" srcset="/wp-content/uploads/grendel-systems-excavator-1018x1024.jpg 1018w, /wp-content/uploads/grendel-systems-excavator-298x300.jpg 298w, /wp-content/uploads/grendel-systems-excavator-150x150.jpg 150w, /wp-content/uploads/grendel-systems-excavator-768x772.jpg 768w, /wp-content/uploads/grendel-systems-excavator.jpg 1074w" sizes="(max-width: 1018px) 100vw, 1018px" /></a><figcaption class="wp-element-caption"><em>20 Cryotic per Excavator, 40 Excavators</em></figcaption></figure>
 
 
 
@@ -1236,11 +1312,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-nullifier.jpg"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-systems-nullifier-1024x931.jpg" alt="" class="wp-image-668"/></a><figcaption><em>Stay in the Rift Whenever Possible</em></figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large"><a href="/wp-content/uploads/grendel-systems-nullifier.jpg"><img loading="lazy" decoding="async" width="1024" height="931" src="/wp-content/uploads/grendel-systems-nullifier-1024x931.jpg" alt="" class="wp-image-9113" srcset="/wp-content/uploads/grendel-systems-nullifier-1024x931.jpg 1024w, /wp-content/uploads/grendel-systems-nullifier-300x273.jpg 300w, /wp-content/uploads/grendel-systems-nullifier-768x698.jpg 768w, /wp-content/uploads/grendel-systems-nullifier.jpg 1188w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><em>Stay in the Rift Whenever Possible</em></figcaption></figure>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
@@ -1260,15 +1336,31 @@
 
 
 
-<ul><li><a href="https://marvweb.com/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li><li>&gt; Systems: Mine of Karishh &#8211; 800 Cryotic Excavation</li><li><a href="https://marvweb.com/archaeo-freighter-solo-grendel-mission-neuroptics/">Neuroptics: Archaeo-Freighter &#8211; 20 Minute Survival</a></li></ul>
+<ul>
+<li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
 
-<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://marvweb.com/icefields-of-riddah-solo-grendel-chassis/grendel-chassis-featured/"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-chassis-featured-1024x576.jpg" alt="" data-id="642" data-full-url="https://marvweb.com/wp-content/uploads/2020/08/grendel-chassis-featured.jpg" data-link="https://marvweb.com/icefields-of-riddah-solo-grendel-chassis/grendel-chassis-featured/" class="wp-image-642"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://marvweb.com/archaeo-freighter-solo-grendel-mission-neuroptics/grendel-neuroptics-featured/"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2020/08/grendel-neuroptics-featured-1024x576.jpg" alt="" data-id="679" data-full-url="https://marvweb.com/wp-content/uploads/2020/08/grendel-neuroptics-featured.jpg" data-link="https://marvweb.com/archaeo-freighter-solo-grendel-mission-neuroptics/grendel-neuroptics-featured/" class="wp-image-679"/></a></figure></li></ul></figure>
+<li>&gt; Systems: Mine of Karishh &#8211; 800 Cryotic Excavation</li>
 
 
 
-<hr class="wp-block-separator has-text-color has-background has-vivid-purple-background-color has-vivid-purple-color"/>
+<li><a href="/archaeo-freighter-solo-grendel-mission-neuroptics/">Neuroptics: Archaeo-Freighter &#8211; 20 Minute Survival</a></li>
+</ul>
+
+
+
+<figure class="wp-block-gallery aligncenter has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="/icefields-of-riddah-solo-grendel-chassis/"><img loading="lazy" decoding="async" width="1024" height="576" data-id="9099" src="/wp-content/uploads/grendel-chassis-featured-1024x576.jpg" alt="" class="wp-image-9099" srcset="/wp-content/uploads/grendel-chassis-featured-1024x576.jpg 1024w, /wp-content/uploads/grendel-chassis-featured-300x169.jpg 300w, /wp-content/uploads/grendel-chassis-featured-768x432.jpg 768w, /wp-content/uploads/grendel-chassis-featured-1536x864.jpg 1536w, /wp-content/uploads/grendel-chassis-featured.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/archaeo-freighter-solo-grendel-mission-neuroptics/"><img loading="lazy" decoding="async" width="1024" height="576" data-id="9106" src="/wp-content/uploads/grendel-neuroptics-featured-1024x576.jpg" alt="" class="wp-image-9106" srcset="/wp-content/uploads/grendel-neuroptics-featured-1024x576.jpg 1024w, /wp-content/uploads/grendel-neuroptics-featured-300x169.jpg 300w, /wp-content/uploads/grendel-neuroptics-featured-768x432.jpg 768w, /wp-content/uploads/grendel-neuroptics-featured-1536x864.jpg 1536w, /wp-content/uploads/grendel-neuroptics-featured.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</figure>
+
+
+
+<hr class="wp-block-separator has-text-color has-vivid-purple-color has-css-opacity has-vivid-purple-background-color has-background"/>
 
 
 
