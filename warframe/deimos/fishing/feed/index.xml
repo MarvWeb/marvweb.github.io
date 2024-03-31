@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Deimos Fishing &#8211; How to Earn Daughter Tokens	</title>
+	<atom:link href="/warframe/deimos/fishing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 29 Mar 2024 19:17:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>
+		By: Steppin		</title>
+		<link>/warframe/deimos/fishing/#comment-223</link>
+
+		<dc:creator><![CDATA[Steppin]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2020 21:59:03 +0000</pubDate>
+		<guid isPermaLink="false">https://marvweb.com/?p=914#comment-223</guid>
+
+					<description><![CDATA[Great guide, thank you for your work. I noticed that there is one fish missing from your list though. It is the Aquapulmo, It’s found during vome, and requires processed Vass residue.]]></description>
+			<content:encoded><![CDATA[<p>Great guide, thank you for your work. I noticed that there is one fish missing from your list though. It is the Aquapulmo, It’s found during vome, and requires processed Vass residue.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Bebras		</title>
+		<link>/warframe/deimos/fishing/#comment-222</link>
+
+		<dc:creator><![CDATA[Bebras]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2020 00:58:00 +0000</pubDate>
+		<guid isPermaLink="false">https://marvweb.com/?p=914#comment-222</guid>
+
+					<description><![CDATA[consistently getting Chondricord during Vome in cave hotspots with Vome residue as bait]]></description>
+			<content:encoded><![CDATA[<p>consistently getting Chondricord during Vome in cave hotspots with Vome residue as bait</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

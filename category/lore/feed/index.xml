@@ -12,7 +12,7 @@
 	<atom:link href="/category/lore/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Apr 2022 18:45:36 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Mar 2024 20:58:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -67,7 +67,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/The_Master_of_Masters_KHX.webp" alt="The Master of Masters as he appeared in KHX" class="wp-image-2143" width="116" height="283"/><figcaption>The MoM as he appeared in KHχ</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/The_Master_of_Masters_KHX.webp"><img fetchpriority="high" decoding="async" width="300" height="731" src="/wp-content/uploads/The_Master_of_Masters_KHX.webp" alt="" class="wp-image-9401" srcset="/wp-content/uploads/The_Master_of_Masters_KHX.webp 300w, /wp-content/uploads/The_Master_of_Masters_KHX-123x300.webp 123w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-element-caption">The MoM as he appeared in KHχ</figcaption></figure>
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/Sora-vs-Xehanort.png" alt="" class="wp-image-2146"/><figcaption>Xehanort wielding the Gazing Eye Keyblade</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/Sora-vs-Xehanort.png"><img decoding="async" width="653" height="490" src="/wp-content/uploads/Sora-vs-Xehanort.png" alt="" class="wp-image-9344" srcset="/wp-content/uploads/Sora-vs-Xehanort.png 653w, /wp-content/uploads/Sora-vs-Xehanort-300x225.png 300w" sizes="(max-width: 653px) 100vw, 653px" /></a><figcaption class="wp-element-caption">Xehanort wielding the Gazing Eye Keyblade</figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/gazing-eye-scala-ad-caelum.png" alt="" class="wp-image-2177" width="396" height="294"/><figcaption>The Gazing Eye Keyblade hanging in Scala Ad Caelum</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/gazing-eye-scala-ad-caelum.png"><img decoding="async" width="751" height="557" src="/wp-content/uploads/gazing-eye-scala-ad-caelum.png" alt="" class="wp-image-9084" srcset="/wp-content/uploads/gazing-eye-scala-ad-caelum.png 751w, /wp-content/uploads/gazing-eye-scala-ad-caelum-300x223.png 300w" sizes="(max-width: 751px) 100vw, 751px" /></a><figcaption class="wp-element-caption">The Gazing Eye Keyblade hanging in Scala Ad Caelum</figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/xigbar-is-luxu-1024x586.jpg" alt="" class="wp-image-2179" width="647" height="370"/><figcaption>Xigbar reveals himself to be Luxu</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/xigbar-is-luxu.jpg"><img loading="lazy" decoding="async" width="1024" height="586" src="/wp-content/uploads/xigbar-is-luxu-1024x586.jpg" alt="" class="wp-image-8207" srcset="/wp-content/uploads/xigbar-is-luxu-1024x586.jpg 1024w, /wp-content/uploads/xigbar-is-luxu-300x172.jpg 300w, /wp-content/uploads/xigbar-is-luxu-768x440.jpg 768w, /wp-content/uploads/xigbar-is-luxu-1536x879.jpg 1536w, /wp-content/uploads/xigbar-is-luxu.jpg 1682w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Xigbar reveals himself to be Luxu</figcaption></figure>
 
 
 
@@ -135,11 +135,13 @@
 
 
 
-<blockquote class="wp-block-quote"><p>Donald,<br>Sorry to rush off without sayin&#8217; goodbye, but there&#8217;s big trouble brewin&#8217;.<br>Not sure why, but the stars have been blinkin&#8217; out, one by one. And that means disaster can&#8217;t be far behind. I hate to leave you all but I&#8217;ve gotta go check into it.<br>There&#8217;s someone with a &#8220;Key&#8221;—the Key to our survival. So I need you and Goofy to find him, and stick with him. Got it?<br>We need that key or we&#8217;re doomed! So go to Traverse Town and find Leon. He&#8217;ll point you in the right direction.<br>P.S. Would ya apologize to Minnie for me? Thanks, pal.<br>Signed &#8211; Mickey</p></blockquote>
+<blockquote class="wp-block-quote">
+<p>Donald,<br>Sorry to rush off without sayin&#8217; goodbye, but there&#8217;s big trouble brewin&#8217;.<br>Not sure why, but the stars have been blinkin&#8217; out, one by one. And that means disaster can&#8217;t be far behind. I hate to leave you all but I&#8217;ve gotta go check into it.<br>There&#8217;s someone with a &#8220;Key&#8221;—the Key to our survival. So I need you and Goofy to find him, and stick with him. Got it?<br>We need that key or we&#8217;re doomed! So go to Traverse Town and find Leon. He&#8217;ll point you in the right direction.<br>P.S. Would ya apologize to Minnie for me? Thanks, pal.<br>Signed &#8211; Mickey</p>
+</blockquote>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/Pluto-Napping-1.png" alt="" class="wp-image-2151" width="588" height="383"/><figcaption>Pluto is shown while the letter is read</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/Pluto-Napping-1.png"><img loading="lazy" decoding="async" width="689" height="449" src="/wp-content/uploads/Pluto-Napping-1.png" alt="" class="wp-image-9294" srcset="/wp-content/uploads/Pluto-Napping-1.png 689w, /wp-content/uploads/Pluto-Napping-1-300x196.png 300w" sizes="(max-width: 689px) 100vw, 689px" /></a><figcaption class="wp-element-caption">Pluto is shown while the letter is read</figcaption></figure>
 
 
 
@@ -179,7 +181,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/Pluto-Hitting-Sora.png" alt="" class="wp-image-2149" width="358" height="284"/><figcaption>Pluto hitting Sora</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/Pluto-Hitting-Sora.png"><img loading="lazy" decoding="async" width="695" height="551" src="/wp-content/uploads/Pluto-Hitting-Sora.png" alt="" class="wp-image-9292" srcset="/wp-content/uploads/Pluto-Hitting-Sora.png 695w, /wp-content/uploads/Pluto-Hitting-Sora-300x238.png 300w" sizes="(max-width: 695px) 100vw, 695px" /></a><figcaption class="wp-element-caption">Pluto hitting Sora</figcaption></figure>
 
 
 
@@ -211,7 +213,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/Pluto-With-Letter.png" alt="" class="wp-image-2152" width="508" height="280"/><figcaption>What a coincidence</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/Pluto-With-Letter.png"><img loading="lazy" decoding="async" width="855" height="471" src="/wp-content/uploads/Pluto-With-Letter.png" alt="" class="wp-image-9298" srcset="/wp-content/uploads/Pluto-With-Letter.png 855w, /wp-content/uploads/Pluto-With-Letter-300x165.png 300w, /wp-content/uploads/Pluto-With-Letter-768x423.png 768w" sizes="(max-width: 855px) 100vw, 855px" /></a><figcaption class="wp-element-caption">What a coincidence</figcaption></figure>
 
 
 
@@ -251,7 +253,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/Castle-Oblivion-1024x590.png" alt="" class="wp-image-2153" width="552" height="318"/><figcaption>Pluto led them straight to Marluxia</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/Castle-Oblivion.png"><img loading="lazy" decoding="async" width="1024" height="590" src="/wp-content/uploads/Castle-Oblivion-1024x590.png" alt="" class="wp-image-8966" srcset="/wp-content/uploads/Castle-Oblivion-1024x590.png 1024w, /wp-content/uploads/Castle-Oblivion-300x173.png 300w, /wp-content/uploads/Castle-Oblivion-768x442.png 768w, /wp-content/uploads/Castle-Oblivion.png 1106w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Pluto led them straight to Marluxia</figcaption></figure>
 
 
 
@@ -279,7 +281,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/whats-pluto-doing-here.png" alt="" class="wp-image-2154" width="528" height="355"/><figcaption>Good question Donald, what IS Pluto doing here?</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/whats-pluto-doing-here.png"><img loading="lazy" decoding="async" width="852" height="573" src="/wp-content/uploads/whats-pluto-doing-here.png" alt="" class="wp-image-9460" srcset="/wp-content/uploads/whats-pluto-doing-here.png 852w, /wp-content/uploads/whats-pluto-doing-here-300x202.png 300w, /wp-content/uploads/whats-pluto-doing-here-768x517.png 768w" sizes="(max-width: 852px) 100vw, 852px" /></a><figcaption class="wp-element-caption">Good question Donald, what IS Pluto doing here?</figcaption></figure>
 
 
 
@@ -311,7 +313,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/pluto-goes-into-darkness.jpg" alt="" class="wp-image-2156" width="309" height="409"/><figcaption>Pluto delves into the darkness</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/pluto-goes-into-darkness.jpg"><img loading="lazy" decoding="async" width="606" height="802" src="/wp-content/uploads/pluto-goes-into-darkness.jpg" alt="" class="wp-image-9291" srcset="/wp-content/uploads/pluto-goes-into-darkness.jpg 606w, /wp-content/uploads/pluto-goes-into-darkness-227x300.jpg 227w" sizes="(max-width: 606px) 100vw, 606px" /></a><figcaption class="wp-element-caption">Pluto delves into the darkness</figcaption></figure>
 
 
 
@@ -343,7 +345,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/pluto-saves-kairi.jpg" alt="" class="wp-image-2157" width="420" height="397"/><figcaption>A corridor of light?</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="/wp-content/uploads/pluto-saves-kairi.jpg"><img loading="lazy" decoding="async" width="1003" height="947" src="/wp-content/uploads/pluto-saves-kairi.jpg" alt="" class="wp-image-9295" srcset="/wp-content/uploads/pluto-saves-kairi.jpg 1003w, /wp-content/uploads/pluto-saves-kairi-300x283.jpg 300w, /wp-content/uploads/pluto-saves-kairi-768x725.jpg 768w" sizes="(max-width: 1003px) 100vw, 1003px" /></a><figcaption class="wp-element-caption">A corridor of light?</figcaption></figure>
 
 
 
@@ -379,7 +381,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/pluto-stopping-riku-1024x832.jpg" alt="" class="wp-image-2158" width="476" height="387"/><figcaption>Pluto convinces Riku when Kairi could not</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/pluto-stopping-riku.jpg"><img loading="lazy" decoding="async" width="1024" height="832" src="/wp-content/uploads/pluto-stopping-riku-1024x832.jpg" alt="" class="wp-image-9297" srcset="/wp-content/uploads/pluto-stopping-riku-1024x832.jpg 1024w, /wp-content/uploads/pluto-stopping-riku-300x244.jpg 300w, /wp-content/uploads/pluto-stopping-riku-768x624.jpg 768w, /wp-content/uploads/pluto-stopping-riku.jpg 1104w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Pluto convinces Riku when Kairi could not</figcaption></figure>
 
 
 
@@ -407,7 +409,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/pluto-sneaks-off-1024x552.png" alt="" class="wp-image-2162" width="557" height="300"/><figcaption>Pluto sneaks off</figcaption></figure></div>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/pluto-sneaks-off.png"><img loading="lazy" decoding="async" width="1024" height="552" src="/wp-content/uploads/pluto-sneaks-off-1024x552.png" alt="" class="wp-image-9296" srcset="/wp-content/uploads/pluto-sneaks-off-1024x552.png 1024w, /wp-content/uploads/pluto-sneaks-off-300x162.png 300w, /wp-content/uploads/pluto-sneaks-off-768x414.png 768w, /wp-content/uploads/pluto-sneaks-off.png 1201w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Pluto sneaks off</figcaption></figure>
 
 
 
@@ -423,15 +425,29 @@
 
 
 
-<blockquote class="wp-block-quote"><p>Their hurting will be mended when you return to end it.</p><cite><strong>Page added to Jiminy&#8217;s Journal</strong></cite></blockquote>
+<blockquote class="wp-block-quote">
+<p>Their hurting will be mended when you return to end it.</p>
+<cite><strong>Page added to Jiminy&#8217;s Journal</strong></cite></blockquote>
 
 
 
-<blockquote class="wp-block-quote"><p>On that fated land, a great war shall transpire. Darkness will prevail and the light expire.</p><cite><strong>Book of Prophecies Final Entry</strong></cite></blockquote>
+<blockquote class="wp-block-quote">
+<p>On that fated land, a great war shall transpire. Darkness will prevail and the light expire.</p>
+<cite><strong>Book of Prophecies Final Entry</strong></cite></blockquote>
 
 
 
-<blockquote class="wp-block-quote"><p><em>Imbalance observed, strength misplaced, a future filled with sorrow.</em></p><p><em>Words of truth misunderstood as they explore the secret of tomorrow.</em></p><p><em>With a single strike, toll the bells and herald the end, bringing war upon us, as fate did intend.</em></p><p></p><cite><strong>Book of Prophecies Lost Page</strong></cite></blockquote>
+<blockquote class="wp-block-quote">
+<p><em>Imbalance observed, strength misplaced, a future filled with sorrow.</em></p>
+
+
+
+<p><em>Words of truth misunderstood as they explore the secret of tomorrow.</em></p>
+
+
+
+<p><em>With a single strike, toll the bells and herald the end, bringing war upon us, as fate did intend.</em></p>
+<cite><strong>Book of Prophecies Lost Page</strong></cite></blockquote>
 
 
 
@@ -459,7 +475,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img decoding="async" src="https://marvweb.com/wp-content/uploads/2022/04/pluto.webp" alt="" class="wp-image-2164"/></figure></div>
+<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/pluto.webp"><img loading="lazy" decoding="async" width="232" height="299" src="/wp-content/uploads/pluto.webp" alt="" class="wp-image-9290"/></a></figure>
 
 
 
