@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Warframe Prime Resurgence &#8211; How to Earn Aya</title>
 		<link>/warframe-prime-resurgence-temporary-vaulted-prime-event/</link>
@@ -63,7 +63,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Nov. 16 &#8211; Nov. 22: Mag &amp; Nova  </li>
 
 
@@ -234,7 +234,7 @@
 
 
 
-<ul><li>Lavos&#8217;s ability&#8217;s CDs are too short, potentially leading to 100% of playtime</li><li>Short CDs discourage the use of weapons, an integral part of Warframe</li><li>CD based rotations don&#8217;t fit well into Warframe&#8217;s current playstyle as they encourage rotations rather pooling energy for the right situation</li></ul>
+<ul class="wp-block-list"><li>Lavos&#8217;s ability&#8217;s CDs are too short, potentially leading to 100% of playtime</li><li>Short CDs discourage the use of weapons, an integral part of Warframe</li><li>CD based rotations don&#8217;t fit well into Warframe&#8217;s current playstyle as they encourage rotations rather pooling energy for the right situation</li></ul>
 
 
 
@@ -628,7 +628,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>You can purchase a cosmetic outfit for your Sentinel companion to make it look like Loid</li>
 
 
@@ -638,7 +638,7 @@
 
 
 <li>You can now view the current cycle in the corresponding hub
-<ul>
+<ul class="wp-block-list">
 <li>Vome/Fass cycle in the Necralisk; current temperature in Fortuna; time of day in Cetus</li>
 </ul>
 </li>
@@ -696,7 +696,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Give Hildryn the ability Defy</li>
 
 
@@ -1109,7 +1109,7 @@
 
 					<description><![CDATA[Learn the easiest way to beat Archaeo-Freighter solo and earn your Grendel Neuroptics blueprint using this speciallized Hildryn build.]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1263,7 +1263,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1319,7 +1319,7 @@
 
 					<description><![CDATA[Learn the easiest way to beat the Mine of Karishh solo and earn your Grendel Systems blueprint using this speciallized Limbo strategy.]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1457,7 +1457,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1513,7 +1513,7 @@
 
 					<description><![CDATA[Learn the easiest way to beat Icefields of Riddah solo and earn your Grendel Chassis blueprint using this speciallized Hildryn build.]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li>&gt; Chassis: Icefields of Riddah &#8211; 15 Wave Defense</li>
 
 
@@ -1691,7 +1691,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>&gt; Chassis: Icefields of Riddah &#8211; 15 Wave Defense</li>
 
 

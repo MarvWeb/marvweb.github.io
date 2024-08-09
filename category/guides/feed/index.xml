@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>How to Access the Crown Tundra</title>
 		<link>/access-crown-tundra/</link>
@@ -573,7 +573,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Keep Refreshing Brew under three charges while not wasting it on Choke under 50</li>
 
 
@@ -868,7 +868,7 @@
 
 					<description><![CDATA[Learn the easiest way to beat Archaeo-Freighter solo and earn your Grendel Neuroptics blueprint using this speciallized Hildryn build.]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1022,7 +1022,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1078,7 +1078,7 @@
 
 					<description><![CDATA[Learn the easiest way to beat the Mine of Karishh solo and earn your Grendel Systems blueprint using this speciallized Limbo strategy.]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1216,7 +1216,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1272,7 +1272,7 @@
 
 					<description><![CDATA[Learn the easiest way to beat Icefields of Riddah solo and earn your Grendel Chassis blueprint using this speciallized Hildryn build.]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li>&gt; Chassis: Icefields of Riddah &#8211; 15 Wave Defense</li>
 
 
@@ -1450,7 +1450,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>&gt; Chassis: Icefields of Riddah &#8211; 15 Wave Defense</li>
 
 
@@ -1669,9 +1669,9 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Pokemon caught in Max Raid Battles are guaranteed to have a number of max IVs
-<ul>
+<ul class="wp-block-list">
 <li>The number of max IVs depends on the number of stars for the fight</li>
 </ul>
 </li>
@@ -1683,7 +1683,7 @@
 
 
 <li>Completing the fight will reward a number of items regardless of if you capture it or not, including:
-<ul>
+<ul class="wp-block-list">
 <li>Dynamax Candies</li>
 
 

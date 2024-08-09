@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Theory: Pluto is the Master of Masters</title>
 		<link>/pluto-is-the-master-of-masters/</link>
@@ -541,7 +541,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Nov. 16 &#8211; Nov. 22: Mag &amp; Nova  </li>
 
 
@@ -813,7 +813,7 @@
 
 
 
-<ul><li>Lavos&#8217;s ability&#8217;s CDs are too short, potentially leading to 100% of playtime</li><li>Short CDs discourage the use of weapons, an integral part of Warframe</li><li>CD based rotations don&#8217;t fit well into Warframe&#8217;s current playstyle as they encourage rotations rather pooling energy for the right situation</li></ul>
+<ul class="wp-block-list"><li>Lavos&#8217;s ability&#8217;s CDs are too short, potentially leading to 100% of playtime</li><li>Short CDs discourage the use of weapons, an integral part of Warframe</li><li>CD based rotations don&#8217;t fit well into Warframe&#8217;s current playstyle as they encourage rotations rather pooling energy for the right situation</li></ul>
 
 
 
@@ -1614,7 +1614,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>You can purchase a cosmetic outfit for your Sentinel companion to make it look like Loid</li>
 
 
@@ -1624,7 +1624,7 @@
 
 
 <li>You can now view the current cycle in the corresponding hub
-<ul>
+<ul class="wp-block-list">
 <li>Vome/Fass cycle in the Necralisk; current temperature in Fortuna; time of day in Cetus</li>
 </ul>
 </li>
@@ -2073,7 +2073,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.serebii.net/pokedex-swsh/azumarill/">Azumarill </a>&#8211; 50 Atk, 100 HP, bulky, Light Screen, Grass absorb</li>
 
 
@@ -2135,7 +2135,7 @@
 
 
 
-<ul id="block-913754ec-e6f8-4707-822f-69a39aecb32b">
+<ul class="wp-block-list" id="block-913754ec-e6f8-4707-822f-69a39aecb32b">
 <li><a href="https://www.serebii.net/pokedex-swsh/weavile/">Weavile </a>&#8211; 125 Speed, 45 Special Attack, non-STAB Water</li>
 
 

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Warframe Prime Resurgence &#8211; How to Earn Aya</title>
 		<link>/warframe-prime-resurgence-temporary-vaulted-prime-event/</link>
@@ -63,7 +63,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Nov. 16 &#8211; Nov. 22: Mag &amp; Nova  </li>
 
 
@@ -492,7 +492,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>You can purchase a cosmetic outfit for your Sentinel companion to make it look like Loid</li>
 
 
@@ -502,7 +502,7 @@
 
 
 <li>You can now view the current cycle in the corresponding hub
-<ul>
+<ul class="wp-block-list">
 <li>Vome/Fass cycle in the Necralisk; current temperature in Fortuna; time of day in Cetus</li>
 </ul>
 </li>

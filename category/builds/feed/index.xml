@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>G-Max Coalossal Steam Engine Sweeper (Sw/Sh Doubles)</title>
 		<link>/coalossal-swsh-doubles/</link>
@@ -111,7 +111,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.serebii.net/pokedex-swsh/azumarill/">Azumarill </a>&#8211; 50 Atk, 100 HP, bulky, Light Screen, Grass absorb</li>
 
 
@@ -173,7 +173,7 @@
 
 
 
-<ul id="block-913754ec-e6f8-4707-822f-69a39aecb32b">
+<ul class="wp-block-list" id="block-913754ec-e6f8-4707-822f-69a39aecb32b">
 <li><a href="https://www.serebii.net/pokedex-swsh/weavile/">Weavile </a>&#8211; 125 Speed, 45 Special Attack, non-STAB Water</li>
 
 
@@ -575,7 +575,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Give Hildryn the ability Defy</li>
 
 
@@ -988,7 +988,7 @@
 
 					<description><![CDATA[Learn the easiest way to beat Archaeo-Freighter solo and earn your Grendel Neuroptics blueprint using this speciallized Hildryn build.]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1142,7 +1142,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1198,7 +1198,7 @@
 
 					<description><![CDATA[Learn the easiest way to beat the Mine of Karishh solo and earn your Grendel Systems blueprint using this speciallized Limbo strategy.]]></description>
 										<content:encoded><![CDATA[
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
@@ -1336,7 +1336,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="/icefields-of-riddah-solo-grendel-chassis/">Chassis: Icefields of Riddah &#8211; 15 Wave Defense</a></li>
 
 
